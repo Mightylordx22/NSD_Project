@@ -1,5 +1,6 @@
 package uk.mightylordx.project.solution;
 
+import uk.mightylordx.project.exceptions.FileWriteException;
 import uk.mightylordx.project.exceptions.IncorrectFileException;
 import uk.mightylordx.project.movies.Movie;
 import uk.mightylordx.project.ratings.Rating;
@@ -7,6 +8,7 @@ import uk.mightylordx.project.users.User;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
 import java.util.*;
 
 public class Solution {
@@ -44,7 +46,6 @@ public class Solution {
                 mData.add(r);
                 this.userRatingList.put(r.getUserID(), uData);
                 this.movieRatingList.put(r.getMovieID(), mData);
-
             }
         } catch (FileNotFoundException e) {
             throw new IncorrectFileException("Ratings File not Found", e);
@@ -69,9 +70,9 @@ public class Solution {
                 }
             }
             if (!duplicate) {
-                System.out.println("There were no duplicate UserIDs");
+                System.out.println("\n[There were no duplicate UserIDs]\n");
             } else {
-                System.out.println("There were some duplicate userIDs [See Above]");
+                System.out.println("\n[There were some duplicate userIDs [See Above]]\n");
             }
         } catch (FileNotFoundException e) {
             throw new IncorrectFileException("User File not Found", e);
@@ -105,9 +106,9 @@ public class Solution {
                 }
             }
             if (!duplicate) {
-                System.out.println("There were no duplicate MovieIDs");
+                System.out.println("\n[There were no duplicate MovieIDs]\n");
             } else {
-                System.out.println("There were some duplicate MovieIDs [See Above]");
+                System.out.println("\n[There were some duplicate MovieIDs [See Above]]\n");
             }
         } catch (FileNotFoundException e) {
             throw new IncorrectFileException("Movie File not Found", e);
@@ -124,18 +125,34 @@ public class Solution {
                 score += r.getRating();
             }
             System.out.printf("UserID: %s | Average Rating: %.2f%n", userID, score / total);
+            try {
+                File file = new File("outputFiles\\oneUserRating.txt");
+                FileWriter fileWriter = new FileWriter(file);
+                fileWriter.write(String.format("UserID: %s | Average Rating: %.2f%n", userID, score / total));
+                fileWriter.close();
+            } catch (Exception e) {
+                throw new FileWriteException("Cannot Write to File oneUserRating.txt", e);
+            }
         }
     }
 
     private void printAllUserRatings() {
-        for (Map.Entry<String, List<Rating>> hash : userRatingList.entrySet()) {
-            List<Rating> data = hash.getValue();
-            int total = data.size();
-            float score = 0;
-            for (Rating r : data) {
-                score += r.getRating();
+        try {
+            File file = new File("outputFiles\\allUserRating.txt");
+            FileWriter fileWriter = new FileWriter(file);
+            for (Map.Entry<String, List<Rating>> hash : userRatingList.entrySet()) {
+                List<Rating> data = hash.getValue();
+                int total = data.size();
+                float score = 0;
+                for (Rating r : data) {
+                    score += r.getRating();
+                }
+                System.out.printf("UserID: %s | Average Rating: %.2f%n", hash.getKey(), score / total);
+                fileWriter.append(String.format("UserID: %s | Average Rating: %.2f%n", hash.getKey(), score / total));
             }
-            System.out.printf("UserID: %s | Average Rating: %.2f%n", hash.getKey(), score / total);
+            fileWriter.close();
+        } catch (Exception e) {
+            throw new FileWriteException("Cannot Write to File allUserRating.txt", e);
         }
     }
 
@@ -149,36 +166,65 @@ public class Solution {
                 score += r.getRating();
             }
             System.out.printf("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", movieID, this.movieList.get(movieID).getTitle(), score / total);
+            try {
+                File file = new File("outputFiles\\oneMovieRating.txt");
+                FileWriter fileWriter = new FileWriter(file);
+                fileWriter.write(String.format("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", movieID, this.movieList.get(movieID).getTitle(), score / total));
+                fileWriter.close();
+            } catch (Exception e) {
+                throw new FileWriteException("Cannot Write to File oneMovieRating.txt", e);
+            }
         }
     }
 
     private void printAllMovieRatings() {
-        for (Map.Entry<String, List<Rating>> hash : movieRatingList.entrySet()) {
-            List<Rating> data = hash.getValue();
-            int total = data.size();
-            float score = 0;
-            for (Rating r : data) {
-                score += r.getRating();
+        try {
+            File file = new File("outputFiles\\allMovieRating.txt");
+            FileWriter fileWriter = new FileWriter(file);
+            for (Map.Entry<String, List<Rating>> hash : movieRatingList.entrySet()) {
+                List<Rating> data = hash.getValue();
+                int total = data.size();
+                float score = 0;
+                for (Rating r : data) {
+                    score += r.getRating();
+                }
+                System.out.printf("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", hash.getKey(), this.movieList.get(hash.getKey()).getTitle(), score / total);
+                fileWriter.append(String.format("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", hash.getKey(), this.movieList.get(hash.getKey()).getTitle(), score / total));
             }
-            System.out.printf("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", hash.getKey(), this.movieList.get(hash.getKey()).getTitle(), score / total);
+            fileWriter.close();
+        } catch (Exception e) {
+            throw new FileWriteException("Cannot Write to File allMovieRating.txt", e);
         }
     }
 
     private void printTwoRatedMovies(String userIDOne, String userIDTwo) {
-        boolean rated = false;
-        List<String> firstUserMovieList = new ArrayList<>();
-        for (Rating r : this.userRatingList.get(userIDOne)) {
-            firstUserMovieList.add(this.movieList.get(r.getMovieID()).getTitle());
-        }
-        for (Rating r : this.userRatingList.get(userIDTwo)) {
-            String title = this.movieList.get(r.getMovieID()).getTitle();
-            if (firstUserMovieList.contains(title)) {
-                System.out.printf("User [%s] and [%s] have both rated %s%n", userIDOne,userIDTwo,title);
-                rated = true;
+        try {
+            if (this.userRatingList.containsKey(userIDOne) && this.userRatingList.containsKey(userIDTwo)) {
+                boolean rated = false;
+                List<String> firstUserMovieList = new ArrayList<>();
+                File file = new File("outputFiles\\sharedMovies.txt");
+                FileWriter fileWriter = new FileWriter(file);
+                for (Rating r : this.userRatingList.get(userIDOne)) {
+                    firstUserMovieList.add(this.movieList.get(r.getMovieID()).getTitle());
+                }
+                for (Rating r : this.userRatingList.get(userIDTwo)) {
+                    String title = this.movieList.get(r.getMovieID()).getTitle();
+                    if (firstUserMovieList.contains(title)) {
+                        System.out.printf("User [%s] and [%s] have both rated %s%n", userIDOne, userIDTwo, title);
+                        fileWriter.append(String.format("User [%s] and [%s] have both rated %s%n", userIDOne, userIDTwo, title));
+                        rated = true;
+                    }
+                }
+                if (!rated) {
+                    System.out.printf("Users [%s] and [%s] do not share any movies%n", userIDOne, userIDTwo);
+                    fileWriter.append(String.format("Users [%s] and [%s] do not share any movies%n", userIDOne, userIDTwo));
+                }
+                fileWriter.close();
+            } else {
+                System.out.println("Sorry one of those UserID's are not right.");
             }
-        }
-        if (!rated) {
-            System.out.printf("Users [%s] and [%s] do not share any movies%n", userIDOne, userIDTwo);
+        } catch (Exception e) {
+            throw new FileWriteException("Cannot Write to File sharedMovies.txt", e);
         }
     }
 
@@ -186,10 +232,10 @@ public class Solution {
         boolean carryOn = true;
         boolean loadedInformation = false;
         while (carryOn) {
-            System.out.print("\nPlease choose from below\n\nA] Load all information\nB] Show average rating of specific user\nC] Show average ratings of specific movie\nD] Show all user ratings\nE] Show all movie ratings\nF] Find movies rated by 2 users\nX] Quit\n>>> ");
+            System.out.print("----------------------------\n| Please choose from below |\n----------------------------\nA] Load all information\nB] Show average rating of specific user\nC] Show average ratings of specific movie\nD] Show all user ratings\nE] Show all movie ratings\nF] Find movies rated by 2 users\nX] Quit\n>>> ");
             Scanner s = new Scanner(System.in);
+            s.useDelimiter("[;\\r\\n]+");
             String userOption = s.nextLine().toUpperCase();
-
             switch (userOption.strip()) {
                 case "A" -> {
                     if (!loadedInformation) {

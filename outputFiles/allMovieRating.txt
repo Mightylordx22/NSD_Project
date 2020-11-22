@@ -1,0 +1,1682 @@
+MovieID: 1462 | Movie Title: Thieves (Voleurs, Les) (1996) | Average Rating: 3.71
+MovieID: 1461 | Movie Title: Here Comes Cookie (1935) | Average Rating: 2.00
+MovieID: 1460 | Movie Title: Sleepover (1995) | Average Rating: 3.00
+MovieID: 1459 | Movie Title: Madame Butterfly (1995) | Average Rating: 3.57
+MovieID: 1458 | Movie Title: Damsel in Distress, A (1937) | Average Rating: 4.00
+MovieID: 1457 | Movie Title: Love Is All There Is (1996) | Average Rating: 3.00
+MovieID: 1456 | Movie Title: Beat the Devil (1954) | Average Rating: 3.71
+MovieID: 1455 | Movie Title: Outlaw, The (1943) | Average Rating: 2.50
+MovieID: 1454 | Movie Title: Angel and the Badman (1947) | Average Rating: 3.00
+MovieID: 1453 | Movie Title: Angel on My Shoulder (1946) | Average Rating: 2.00
+MovieID: 1452 | Movie Title: Lady of Burlesque (1943) | Average Rating: 4.00
+MovieID: 1473 | Movie Title: Little Princess, The (1939) | Average Rating: 3.56
+MovieID: 1472 | Movie Title: Visitors, The (Visiteurs, Les) (1993) | Average Rating: 3.50
+MovieID: 1471 | Movie Title: Hideaway (1995) | Average Rating: 2.44
+MovieID: 1470 | Movie Title: Gumby: The Movie (1995) | Average Rating: 2.60
+MovieID: 1 | Movie Title: Toy Story (1995) | Average Rating: 3.88
+MovieID: 1469 | Movie Title: Tom and Huck (1995) | Average Rating: 3.17
+MovieID: 2 | Movie Title: GoldenEye (1995) | Average Rating: 3.21
+MovieID: 1468 | Movie Title: Cure, The (1995) | Average Rating: 3.33
+MovieID: 3 | Movie Title: Four Rooms (1995) | Average Rating: 3.03
+MovieID: 1467 | Movie Title: Saint of Fort Washington, The (1993) | Average Rating: 5.00
+MovieID: 4 | Movie Title: Get Shorty (1995) | Average Rating: 3.55
+MovieID: 1466 | Movie Title: Margaret's Museum (1995) | Average Rating: 4.00
+MovieID: 5 | Movie Title: Copycat (1995) | Average Rating: 3.30
+MovieID: 1465 | Movie Title: Last Summer in the Hamptons (1995) | Average Rating: 2.33
+MovieID: 1464 | Movie Title: Stars Fell on Henrietta, The (1995) | Average Rating: 2.33
+MovieID: 6 | Movie Title: Shanghai Triad (Yao a yao yao dao waipo qiao) (1995) | Average Rating: 3.58
+MovieID: 7 | Movie Title: Twelve Monkeys (1995) | Average Rating: 3.80
+MovieID: 1463 | Movie Title: Boys, Les (1997) | Average Rating: 3.33
+MovieID: 8 | Movie Title: Babe (1995) | Average Rating: 4.00
+MovieID: 9 | Movie Title: Dead Man Walking (1995) | Average Rating: 3.90
+MovieID: 1000 | Movie Title: Lightning Jack (1994) | Average Rating: 3.00
+MovieID: 1484 | Movie Title: Jerky Boys, The (1994) | Average Rating: 2.67
+MovieID: 1483 | Movie Title: Man in the Iron Mask, The (1998) | Average Rating: 3.42
+MovieID: 1482 | Movie Title: Gate of Heavenly Peace, The (1995) | Average Rating: 4.00
+MovieID: 1481 | Movie Title: S.F.W. (1994) | Average Rating: 3.00
+MovieID: 1480 | Movie Title: Herbie Rides Again (1974) | Average Rating: 2.27
+MovieID: 1479 | Movie Title: Reckless (1995) | Average Rating: 2.75
+MovieID: 1478 | Movie Title: Dead Presidents (1995) | Average Rating: 2.72
+MovieID: 1477 | Movie Title: Nightwatch (1997) | Average Rating: 2.50
+MovieID: 1476 | Movie Title: Raw Deal (1948) | Average Rating: 2.00
+MovieID: 1475 | Movie Title: Bhaji on the Beach (1993) | Average Rating: 2.88
+MovieID: 1474 | Movie Title: Nina Takes a Lover (1994) | Average Rating: 2.83
+MovieID: 1011 | Movie Title: 2 Days in the Valley (1996) | Average Rating: 3.23
+MovieID: 1495 | Movie Title: Flirt (1995) | Average Rating: 3.60
+MovieID: 1010 | Movie Title: Basquiat (1996) | Average Rating: 3.25
+MovieID: 1494 | Movie Title: Mostro, Il (1994) | Average Rating: 1.00
+MovieID: 1493 | Movie Title: Modern Affair, A (1995) | Average Rating: 1.00
+MovieID: 1492 | Movie Title: Window to Paris (1994) | Average Rating: 4.00
+MovieID: 1491 | Movie Title: Tough and Deadly (1995) | Average Rating: 3.00
+MovieID: 1490 | Movie Title: Fausto (1993) | Average Rating: 3.00
+MovieID: 1008 | Movie Title: I Shot Andy Warhol (1996) | Average Rating: 3.38
+MovieID: 1007 | Movie Title: Waiting for Guffman (1996) | Average Rating: 4.13
+MovieID: 1006 | Movie Title: Until the End of the World (Bis ans Ende der Welt) (1991) | Average Rating: 2.83
+MovieID: 1005 | Movie Title: Double vie de V�ronique, La (Double Life of Veronique, The) (1991) | Average Rating: 3.68
+MovieID: 1489 | Movie Title: Chasers (1994) | Average Rating: 2.20
+MovieID: 1004 | Movie Title: Geronimo: An American Legend (1993) | Average Rating: 3.11
+MovieID: 1488 | Movie Title: Germinal (1993) | Average Rating: 3.00
+MovieID: 1003 | Movie Title: That Darn Cat! (1997) | Average Rating: 2.25
+MovieID: 1487 | Movie Title: Even Cowgirls Get the Blues (1993) | Average Rating: 2.00
+MovieID: 1002 | Movie Title: Pest, The (1997) | Average Rating: 1.88
+MovieID: 1486 | Movie Title: Girl in the Cadillac (1995) | Average Rating: 1.00
+MovieID: 1001 | Movie Title: Stupids, The (1996) | Average Rating: 2.00
+MovieID: 1485 | Movie Title: Colonel Chabert, Le (1994) | Average Rating: 3.50
+MovieID: 1009 | Movie Title: Stealing Beauty (1996) | Average Rating: 3.38
+MovieID: 1022 | Movie Title: Fast, Cheap & Out of Control (1997) | Average Rating: 3.44
+MovieID: 1021 | Movie Title: 8 1/2 (1963) | Average Rating: 3.82
+MovieID: 1020 | Movie Title: Gaslight (1944) | Average Rating: 3.89
+MovieID: 1019 | Movie Title: Die xue shuang xiong (Killer, The) (1989) | Average Rating: 3.97
+MovieID: 1018 | Movie Title: Tie Me Up! Tie Me Down! (1990) | Average Rating: 3.19
+MovieID: 1017 | Movie Title: Trees Lounge (1996) | Average Rating: 3.24
+MovieID: 1016 | Movie Title: Con Air (1997) | Average Rating: 3.46
+MovieID: 1015 | Movie Title: Shiloh (1997) | Average Rating: 2.83
+MovieID: 1499 | Movie Title: Grosse Fatigue (1994) | Average Rating: 3.25
+MovieID: 1014 | Movie Title: Romy and Michele's High School Reunion (1997) | Average Rating: 3.06
+MovieID: 1498 | Movie Title: Farmer & Chase (1995) | Average Rating: 4.00
+MovieID: 1497 | Movie Title: Line King: Al Hirschfeld, The (1996) | Average Rating: 3.00
+MovieID: 1013 | Movie Title: Anaconda (1997) | Average Rating: 2.29
+MovieID: 1012 | Movie Title: Private Parts (1997) | Average Rating: 3.53
+MovieID: 1496 | Movie Title: Carpool (1996) | Average Rating: 2.80
+MovieID: 1033 | Movie Title: Homeward Bound II: Lost in San Francisco (1996) | Average Rating: 2.78
+MovieID: 1032 | Movie Title: Little Big League (1994) | Average Rating: 2.88
+MovieID: 1031 | Movie Title: Lassie (1994) | Average Rating: 2.29
+MovieID: 1030 | Movie Title: Beverly Hillbillies, The (1993) | Average Rating: 2.25
+MovieID: 1029 | Movie Title: Jury Duty (1995) | Average Rating: 2.00
+MovieID: 1028 | Movie Title: Grumpier Old Men (1995) | Average Rating: 3.04
+MovieID: 1027 | Movie Title: Shooter, The (1995) | Average Rating: 2.67
+MovieID: 1026 | Movie Title: Lay of the Land, The (1997) | Average Rating: 2.50
+MovieID: 1025 | Movie Title: Fire Down Below (1997) | Average Rating: 2.93
+MovieID: 1024 | Movie Title: Mrs. Dalloway (1997) | Average Rating: 3.60
+MovieID: 600 | Movie Title: Daniel Defoe's Robinson Crusoe (1996) | Average Rating: 3.00
+MovieID: 601 | Movie Title: For Whom the Bell Tolls (1943) | Average Rating: 4.00
+MovieID: 1023 | Movie Title: Fathers' Day (1997) | Average Rating: 2.58
+MovieID: 602 | Movie Title: American in Paris, An (1951) | Average Rating: 3.70
+MovieID: 603 | Movie Title: Rear Window (1954) | Average Rating: 4.39
+MovieID: 604 | Movie Title: It Happened One Night (1934) | Average Rating: 4.01
+MovieID: 605 | Movie Title: Meet Me in St. Louis (1944) | Average Rating: 3.35
+MovieID: 606 | Movie Title: All About Eve (1950) | Average Rating: 4.05
+MovieID: 607 | Movie Title: Rebecca (1940) | Average Rating: 3.97
+MovieID: 608 | Movie Title: Spellbound (1945) | Average Rating: 3.93
+MovieID: 609 | Movie Title: Father of the Bride (1950) | Average Rating: 3.58
+MovieID: 1044 | Movie Title: Paper, The (1994) | Average Rating: 3.22
+MovieID: 1043 | Movie Title: Rent-a-Kid (1995) | Average Rating: 3.00
+MovieID: 1042 | Movie Title: Just Cause (1995) | Average Rating: 3.14
+MovieID: 1041 | Movie Title: Forget Paris (1995) | Average Rating: 3.19
+MovieID: 1040 | Movie Title: Two if by Sea (1996) | Average Rating: 2.60
+MovieID: 1039 | Movie Title: Hamlet (1996) | Average Rating: 4.01
+MovieID: 1038 | Movie Title: Switchback (1997) | Average Rating: 2.82
+MovieID: 1037 | Movie Title: Grease 2 (1982) | Average Rating: 2.00
+MovieID: 610 | Movie Title: Gigi (1958) | Average Rating: 3.66
+MovieID: 1036 | Movie Title: Drop Dead Fred (1991) | Average Rating: 2.75
+MovieID: 1035 | Movie Title: Cool Runnings (1993) | Average Rating: 3.16
+MovieID: 611 | Movie Title: Laura (1944) | Average Rating: 4.10
+MovieID: 612 | Movie Title: Lost Horizon (1937) | Average Rating: 3.94
+MovieID: 1034 | Movie Title: Quest, The (1996) | Average Rating: 2.52
+MovieID: 613 | Movie Title: My Man Godfrey (1936) | Average Rating: 4.04
+MovieID: 614 | Movie Title: Giant (1956) | Average Rating: 3.75
+MovieID: 615 | Movie Title: 39 Steps, The (1935) | Average Rating: 4.05
+MovieID: 616 | Movie Title: Night of the Living Dead (1968) | Average Rating: 3.42
+MovieID: 617 | Movie Title: Blue Angel, The (Blaue Engel, Der) (1930) | Average Rating: 3.78
+MovieID: 618 | Movie Title: Picnic (1955) | Average Rating: 3.61
+MovieID: 619 | Movie Title: Extreme Measures (1996) | Average Rating: 3.17
+MovieID: 1055 | Movie Title: Simple Twist of Fate, A (1994) | Average Rating: 3.20
+MovieID: 1054 | Movie Title: Mr. Wrong (1996) | Average Rating: 2.30
+MovieID: 1053 | Movie Title: Now and Then (1995) | Average Rating: 3.46
+MovieID: 1052 | Movie Title: Dracula: Dead and Loving It (1995) | Average Rating: 2.28
+MovieID: 1051 | Movie Title: Associate, The (1996) | Average Rating: 3.24
+MovieID: 1050 | Movie Title: Ghost and Mrs. Muir, The (1947) | Average Rating: 3.65
+MovieID: 1049 | Movie Title: House Arrest (1996) | Average Rating: 2.52
+MovieID: 620 | Movie Title: Chamber, The (1996) | Average Rating: 3.09
+MovieID: 1048 | Movie Title: She's the One (1996) | Average Rating: 3.01
+MovieID: 1047 | Movie Title: Multiplicity (1996) | Average Rating: 2.84
+MovieID: 621 | Movie Title: Davy Crockett, King of the Wild Frontier (1955) | Average Rating: 2.91
+MovieID: 1046 | Movie Title: Malice (1993) | Average Rating: 3.17
+MovieID: 622 | Movie Title: Swiss Family Robinson (1960) | Average Rating: 3.36
+MovieID: 623 | Movie Title: Angels in the Outfield (1994) | Average Rating: 2.92
+MovieID: 1045 | Movie Title: Fearless (1993) | Average Rating: 3.24
+MovieID: 624 | Movie Title: Three Caballeros, The (1945) | Average Rating: 3.27
+MovieID: 625 | Movie Title: Sword in the Stone, The (1963) | Average Rating: 3.33
+MovieID: 626 | Movie Title: So Dear to My Heart (1949) | Average Rating: 3.25
+MovieID: 627 | Movie Title: Robin Hood: Prince of Thieves (1991) | Average Rating: 3.23
+MovieID: 628 | Movie Title: Sleepers (1996) | Average Rating: 3.51
+MovieID: 629 | Movie Title: Victor/Victoria (1982) | Average Rating: 3.34
+MovieID: 1066 | Movie Title: Balto (1995) | Average Rating: 3.00
+MovieID: 1065 | Movie Title: Koyaanisqatsi (1983) | Average Rating: 3.49
+MovieID: 1064 | Movie Title: Crossfire (1947) | Average Rating: 4.25
+MovieID: 1063 | Movie Title: Little Princess, A (1995) | Average Rating: 3.66
+MovieID: 1062 | Movie Title: Four Days in September (1997) | Average Rating: 3.75
+MovieID: 1061 | Movie Title: Evening Star, The (1996) | Average Rating: 2.93
+MovieID: 1060 | Movie Title: Adventures of Pinocchio, The (1996) | Average Rating: 3.05
+MovieID: 630 | Movie Title: Great Race, The (1965) | Average Rating: 3.29
+MovieID: 631 | Movie Title: Crying Game, The (1992) | Average Rating: 3.62
+MovieID: 1059 | Movie Title: Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996) | Average Rating: 2.77
+MovieID: 632 | Movie Title: Sophie's Choice (1982) | Average Rating: 3.90
+MovieID: 1058 | Movie Title: War, The (1994) | Average Rating: 3.27
+MovieID: 1057 | Movie Title: Pallbearer, The (1996) | Average Rating: 2.32
+MovieID: 633 | Movie Title: Christmas Carol, A (1938) | Average Rating: 4.06
+MovieID: 634 | Movie Title: Microcosmos: Le peuple de l'herbe (1996) | Average Rating: 3.75
+MovieID: 1056 | Movie Title: Cronos (1992) | Average Rating: 3.20
+MovieID: 635 | Movie Title: Fog, The (1980) | Average Rating: 2.74
+MovieID: 636 | Movie Title: Escape from New York (1981) | Average Rating: 3.24
+MovieID: 637 | Movie Title: Howling, The (1981) | Average Rating: 3.03
+MovieID: 638 | Movie Title: Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982) | Average Rating: 3.77
+MovieID: 639 | Movie Title: Tin Drum, The (Blechtrommel, Die) (1979) | Average Rating: 3.70
+MovieID: 1077 | Movie Title: Love and a .45 (1994) | Average Rating: 3.13
+MovieID: 1076 | Movie Title: Pagemaster, The (1994) | Average Rating: 2.25
+MovieID: 1075 | Movie Title: Man of No Importance, A (1994) | Average Rating: 3.43
+MovieID: 1074 | Movie Title: Reality Bites (1994) | Average Rating: 2.96
+MovieID: 1073 | Movie Title: Shallow Grave (1994) | Average Rating: 3.82
+MovieID: 1072 | Movie Title: Pyromaniac's Love Story, A (1995) | Average Rating: 2.43
+MovieID: 1071 | Movie Title: Party Girl (1995) | Average Rating: 2.88
+MovieID: 1070 | Movie Title: Living in Oblivion (1995) | Average Rating: 3.74
+MovieID: 640 | Movie Title: Cook the Thief His Wife & Her Lover, The (1989) | Average Rating: 3.02
+MovieID: 641 | Movie Title: Paths of Glory (1957) | Average Rating: 4.21
+MovieID: 642 | Movie Title: Grifters, The (1990) | Average Rating: 3.48
+MovieID: 643 | Movie Title: The Innocent (1994) | Average Rating: 3.00
+MovieID: 1069 | Movie Title: Amateur (1994) | Average Rating: 3.17
+MovieID: 644 | Movie Title: Thin Blue Line, The (1988) | Average Rating: 3.77
+MovieID: 1068 | Movie Title: Star Maker, The (Uomo delle stelle, L') (1995) | Average Rating: 3.17
+MovieID: 1067 | Movie Title: Bottle Rocket (1996) | Average Rating: 3.45
+MovieID: 645 | Movie Title: Paris Is Burning (1990) | Average Rating: 3.81
+MovieID: 646 | Movie Title: Once Upon a Time in the West (1969) | Average Rating: 3.87
+MovieID: 647 | Movie Title: Ran (1985) | Average Rating: 4.10
+MovieID: 648 | Movie Title: Quiet Man, The (1952) | Average Rating: 4.03
+MovieID: 649 | Movie Title: Once Upon a Time in America (1984) | Average Rating: 3.40
+MovieID: 1080 | Movie Title: Celestial Clockwork (1994) | Average Rating: 4.00
+MovieID: 1088 | Movie Title: Double Team (1997) | Average Rating: 2.23
+MovieID: 1087 | Movie Title: Bloodsport 2 (1995) | Average Rating: 1.70
+MovieID: 1086 | Movie Title: It's My Party (1995) | Average Rating: 3.29
+MovieID: 1085 | Movie Title: Carried Away (1996) | Average Rating: 3.00
+MovieID: 1084 | Movie Title: Anne Frank Remembered (1995) | Average Rating: 3.86
+MovieID: 1083 | Movie Title: Albino Alligator (1996) | Average Rating: 2.50
+MovieID: 1082 | Movie Title: Female Perversions (1996) | Average Rating: 2.63
+MovieID: 1081 | Movie Title: Curdled (1996) | Average Rating: 2.75
+MovieID: 650 | Movie Title: Seventh Seal, The (Sjunde inseglet, Det) (1957) | Average Rating: 3.54
+MovieID: 651 | Movie Title: Glory (1989) | Average Rating: 4.08
+MovieID: 652 | Movie Title: Rosencrantz and Guildenstern Are Dead (1990) | Average Rating: 3.89
+MovieID: 653 | Movie Title: Touch of Evil (1958) | Average Rating: 3.91
+MovieID: 654 | Movie Title: Chinatown (1974) | Average Rating: 4.14
+MovieID: 1079 | Movie Title: Joe's Apartment (1996) | Average Rating: 2.24
+MovieID: 655 | Movie Title: Stand by Me (1986) | Average Rating: 3.88
+MovieID: 1078 | Movie Title: Oliver & Company (1988) | Average Rating: 2.77
+MovieID: 656 | Movie Title: M (1931) | Average Rating: 4.00
+MovieID: 657 | Movie Title: Manchurian Candidate, The (1962) | Average Rating: 4.26
+MovieID: 658 | Movie Title: Pump Up the Volume (1990) | Average Rating: 3.42
+MovieID: 659 | Movie Title: Arsenic and Old Lace (1944) | Average Rating: 4.08
+MovieID: 1091 | Movie Title: Pete's Dragon (1977) | Average Rating: 2.72
+MovieID: 1090 | Movie Title: Sliver (1993) | Average Rating: 2.41
+MovieID: 1099 | Movie Title: Red Firecracker, Green Firecracker (1994) | Average Rating: 3.46
+MovieID: 1098 | Movie Title: Flirting With Disaster (1996) | Average Rating: 3.69
+MovieID: 1097 | Movie Title: Hate (Haine, La) (1995) | Average Rating: 3.50
+MovieID: 1096 | Movie Title: Commandments (1997) | Average Rating: 2.67
+MovieID: 1095 | Movie Title: High School High (1996) | Average Rating: 2.62
+MovieID: 1094 | Movie Title: Thin Line Between Love and Hate, A (1996) | Average Rating: 2.42
+MovieID: 1093 | Movie Title: Live Nude Girls (1995) | Average Rating: 3.09
+MovieID: 1092 | Movie Title: Dear God (1996) | Average Rating: 2.50
+MovieID: 660 | Movie Title: Fried Green Tomatoes (1991) | Average Rating: 3.76
+MovieID: 661 | Movie Title: High Noon (1952) | Average Rating: 4.10
+MovieID: 662 | Movie Title: Somewhere in Time (1980) | Average Rating: 3.43
+MovieID: 663 | Movie Title: Being There (1979) | Average Rating: 3.91
+MovieID: 664 | Movie Title: Paris, Texas (1984) | Average Rating: 3.54
+MovieID: 665 | Movie Title: Alien 3 (1992) | Average Rating: 2.83
+MovieID: 666 | Movie Title: Blood For Dracula (Andy Warhol's Dracula) (1974) | Average Rating: 2.40
+MovieID: 1089 | Movie Title: Speed 2: Cruise Control (1997) | Average Rating: 2.13
+MovieID: 667 | Movie Title: Audrey Rose (1977) | Average Rating: 2.17
+MovieID: 668 | Movie Title: Blood Beach (1981) | Average Rating: 2.17
+MovieID: 669 | Movie Title: Body Parts (1991) | Average Rating: 1.62
+MovieID: 670 | Movie Title: Body Snatchers (1993) | Average Rating: 3.00
+MovieID: 671 | Movie Title: Bride of Frankenstein (1935) | Average Rating: 3.61
+MovieID: 672 | Movie Title: Candyman (1992) | Average Rating: 2.72
+MovieID: 673 | Movie Title: Cape Fear (1962) | Average Rating: 3.52
+MovieID: 674 | Movie Title: Cat People (1982) | Average Rating: 2.90
+MovieID: 675 | Movie Title: Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922) | Average Rating: 3.56
+MovieID: 676 | Movie Title: Crucible, The (1996) | Average Rating: 3.34
+MovieID: 677 | Movie Title: Fire on the Mountain (1996) | Average Rating: 3.00
+MovieID: 678 | Movie Title: Volcano (1997) | Average Rating: 2.81
+MovieID: 679 | Movie Title: Conan the Barbarian (1981) | Average Rating: 3.05
+MovieID: 680 | Movie Title: Kull the Conqueror (1997) | Average Rating: 2.56
+MovieID: 681 | Movie Title: Wishmaster (1997) | Average Rating: 2.44
+MovieID: 682 | Movie Title: I Know What You Did Last Summer (1997) | Average Rating: 3.06
+MovieID: 683 | Movie Title: Rocket Man (1997) | Average Rating: 2.41
+MovieID: 200 | Movie Title: Shining, The (1980) | Average Rating: 3.83
+MovieID: 684 | Movie Title: In the Line of Fire (1993) | Average Rating: 3.79
+MovieID: 201 | Movie Title: Evil Dead II (1987) | Average Rating: 3.52
+MovieID: 685 | Movie Title: Executive Decision (1996) | Average Rating: 3.36
+MovieID: 202 | Movie Title: Groundhog Day (1993) | Average Rating: 3.76
+MovieID: 686 | Movie Title: Perfect World, A (1993) | Average Rating: 3.68
+MovieID: 203 | Movie Title: Unforgiven (1992) | Average Rating: 3.87
+MovieID: 687 | Movie Title: McHale's Navy (1997) | Average Rating: 2.19
+MovieID: 688 | Movie Title: Leave It to Beaver (1997) | Average Rating: 1.84
+MovieID: 204 | Movie Title: Back to the Future (1985) | Average Rating: 3.83
+MovieID: 205 | Movie Title: Patton (1970) | Average Rating: 3.99
+MovieID: 689 | Movie Title: Jackal, The (1997) | Average Rating: 3.15
+MovieID: 206 | Movie Title: Akira (1988) | Average Rating: 3.38
+MovieID: 207 | Movie Title: Cyrano de Bergerac (1990) | Average Rating: 3.82
+MovieID: 208 | Movie Title: Young Frankenstein (1974) | Average Rating: 3.94
+MovieID: 209 | Movie Title: This Is Spinal Tap (1984) | Average Rating: 3.91
+MovieID: 690 | Movie Title: Seven Years in Tibet (1997) | Average Rating: 3.46
+MovieID: 691 | Movie Title: Dark City (1998) | Average Rating: 3.50
+MovieID: 692 | Movie Title: American President, The (1995) | Average Rating: 3.63
+MovieID: 693 | Movie Title: Casino (1995) | Average Rating: 3.65
+MovieID: 210 | Movie Title: Indiana Jones and the Last Crusade (1989) | Average Rating: 3.93
+MovieID: 694 | Movie Title: Persuasion (1995) | Average Rating: 4.05
+MovieID: 695 | Movie Title: Kicking and Screaming (1995) | Average Rating: 2.92
+MovieID: 211 | Movie Title: M*A*S*H (1970) | Average Rating: 3.91
+MovieID: 212 | Movie Title: Unbearable Lightness of Being, The (1988) | Average Rating: 3.46
+MovieID: 696 | Movie Title: City Hall (1996) | Average Rating: 3.14
+MovieID: 213 | Movie Title: Room with a View, A (1986) | Average Rating: 3.99
+MovieID: 697 | Movie Title: Basketball Diaries, The (1995) | Average Rating: 3.42
+MovieID: 214 | Movie Title: Pink Floyd - The Wall (1982) | Average Rating: 3.35
+MovieID: 698 | Movie Title: Browning Version, The (1994) | Average Rating: 3.00
+MovieID: 215 | Movie Title: Field of Dreams (1989) | Average Rating: 3.70
+MovieID: 699 | Movie Title: Little Women (1994) | Average Rating: 3.68
+MovieID: 216 | Movie Title: When Harry Met Sally... (1989) | Average Rating: 3.91
+MovieID: 217 | Movie Title: Bram Stoker's Dracula (1992) | Average Rating: 3.16
+MovieID: 218 | Movie Title: Cape Fear (1991) | Average Rating: 3.46
+MovieID: 219 | Movie Title: Nightmare on Elm Street, A (1984) | Average Rating: 3.17
+MovieID: 220 | Movie Title: Mirror Has Two Faces, The (1996) | Average Rating: 3.36
+MovieID: 221 | Movie Title: Breaking the Waves (1996) | Average Rating: 3.73
+MovieID: 222 | Movie Title: Star Trek: First Contact (1996) | Average Rating: 3.66
+MovieID: 223 | Movie Title: Sling Blade (1996) | Average Rating: 4.20
+MovieID: 224 | Movie Title: Ridicule (1996) | Average Rating: 3.70
+MovieID: 225 | Movie Title: 101 Dalmatians (1996) | Average Rating: 2.91
+MovieID: 226 | Movie Title: Die Hard 2 (1990) | Average Rating: 3.36
+MovieID: 227 | Movie Title: Star Trek VI: The Undiscovered Country (1991) | Average Rating: 3.28
+MovieID: 228 | Movie Title: Star Trek: The Wrath of Khan (1982) | Average Rating: 3.82
+MovieID: 229 | Movie Title: Star Trek III: The Search for Spock (1984) | Average Rating: 3.11
+MovieID: 230 | Movie Title: Star Trek IV: The Voyage Home (1986) | Average Rating: 3.45
+MovieID: 231 | Movie Title: Batman Returns (1992) | Average Rating: 2.68
+MovieID: 232 | Movie Title: Young Guns (1988) | Average Rating: 3.21
+MovieID: 233 | Movie Title: Under Siege (1992) | Average Rating: 3.29
+MovieID: 234 | Movie Title: Jaws (1975) | Average Rating: 3.78
+MovieID: 235 | Movie Title: Mars Attacks! (1996) | Average Rating: 2.85
+MovieID: 236 | Movie Title: Citizen Ruth (1996) | Average Rating: 3.62
+MovieID: 237 | Movie Title: Jerry Maguire (1996) | Average Rating: 3.71
+MovieID: 238 | Movie Title: Raising Arizona (1987) | Average Rating: 3.88
+MovieID: 239 | Movie Title: Sneakers (1992) | Average Rating: 3.51
+MovieID: 240 | Movie Title: Beavis and Butt-head Do America (1996) | Average Rating: 2.79
+MovieID: 241 | Movie Title: Last of the Mohicans, The (1992) | Average Rating: 3.55
+MovieID: 242 | Movie Title: Kolya (1996) | Average Rating: 3.99
+MovieID: 243 | Movie Title: Jungle2Jungle (1997) | Average Rating: 2.44
+MovieID: 244 | Movie Title: Smilla's Sense of Snow (1997) | Average Rating: 3.17
+MovieID: 245 | Movie Title: Devil's Own, The (1997) | Average Rating: 3.11
+MovieID: 246 | Movie Title: Chasing Amy (1997) | Average Rating: 3.94
+MovieID: 247 | Movie Title: Turbo: A Power Rangers Movie (1997) | Average Rating: 1.80
+MovieID: 248 | Movie Title: Grosse Pointe Blank (1997) | Average Rating: 3.67
+MovieID: 249 | Movie Title: Austin Powers: International Man of Mystery (1997) | Average Rating: 3.25
+MovieID: 250 | Movie Title: Fifth Element, The (1997) | Average Rating: 3.48
+MovieID: 251 | Movie Title: Shall We Dance? (1996) | Average Rating: 4.26
+MovieID: 252 | Movie Title: Lost World: Jurassic Park, The (1997) | Average Rating: 2.94
+MovieID: 253 | Movie Title: Pillow Book, The (1995) | Average Rating: 3.69
+MovieID: 254 | Movie Title: Batman & Robin (1997) | Average Rating: 2.45
+MovieID: 255 | Movie Title: My Best Friend's Wedding (1997) | Average Rating: 3.36
+MovieID: 256 | Movie Title: When the Cats Away (Chacun cherche son chat) (1996) | Average Rating: 3.56
+MovieID: 257 | Movie Title: Men in Black (1997) | Average Rating: 3.75
+MovieID: 258 | Movie Title: Contact (1997) | Average Rating: 3.80
+MovieID: 259 | Movie Title: George of the Jungle (1997) | Average Rating: 2.69
+MovieID: 260 | Movie Title: Event Horizon (1997) | Average Rating: 2.57
+MovieID: 261 | Movie Title: Air Bud (1997) | Average Rating: 2.56
+MovieID: 262 | Movie Title: In the Company of Men (1997) | Average Rating: 3.71
+MovieID: 263 | Movie Title: Steel (1997) | Average Rating: 2.16
+MovieID: 264 | Movie Title: Mimic (1997) | Average Rating: 2.74
+MovieID: 265 | Movie Title: Hunt for Red October, The (1990) | Average Rating: 3.86
+MovieID: 266 | Movie Title: Kull the Conqueror (1997) | Average Rating: 2.71
+MovieID: 267 | Movie Title: unknown | Average Rating: 3.44
+MovieID: 268 | Movie Title: Chasing Amy (1997) | Average Rating: 3.79
+MovieID: 269 | Movie Title: Full Monty, The (1997) | Average Rating: 3.93
+MovieID: 270 | Movie Title: Gattaca (1997) | Average Rating: 3.60
+MovieID: 271 | Movie Title: Starship Troopers (1997) | Average Rating: 3.23
+MovieID: 272 | Movie Title: Good Will Hunting (1997) | Average Rating: 4.26
+MovieID: 273 | Movie Title: Heat (1995) | Average Rating: 3.57
+MovieID: 274 | Movie Title: Sabrina (1995) | Average Rating: 3.50
+MovieID: 275 | Movie Title: Sense and Sensibility (1995) | Average Rating: 4.01
+MovieID: 276 | Movie Title: Leaving Las Vegas (1995) | Average Rating: 3.70
+MovieID: 277 | Movie Title: Restoration (1995) | Average Rating: 3.46
+MovieID: 278 | Movie Title: Bed of Roses (1996) | Average Rating: 3.23
+MovieID: 279 | Movie Title: Once Upon a Time... When We Were Colored (1995) | Average Rating: 3.29
+MovieID: 280 | Movie Title: Up Close and Personal (1996) | Average Rating: 3.19
+MovieID: 281 | Movie Title: River Wild, The (1994) | Average Rating: 3.14
+MovieID: 282 | Movie Title: Time to Kill, A (1996) | Average Rating: 3.69
+MovieID: 283 | Movie Title: Emma (1996) | Average Rating: 3.72
+MovieID: 284 | Movie Title: Tin Cup (1996) | Average Rating: 3.16
+MovieID: 285 | Movie Title: Secrets & Lies (1996) | Average Rating: 4.27
+MovieID: 286 | Movie Title: English Patient, The (1996) | Average Rating: 3.66
+MovieID: 287 | Movie Title: Marvin's Room (1996) | Average Rating: 3.59
+MovieID: 288 | Movie Title: Scream (1996) | Average Rating: 3.44
+MovieID: 289 | Movie Title: Evita (1996) | Average Rating: 2.98
+MovieID: 290 | Movie Title: Fierce Creatures (1997) | Average Rating: 3.11
+MovieID: 291 | Movie Title: Absolute Power (1997) | Average Rating: 3.37
+MovieID: 292 | Movie Title: Rosewood (1997) | Average Rating: 3.67
+MovieID: 293 | Movie Title: Donnie Brasco (1997) | Average Rating: 3.80
+MovieID: 294 | Movie Title: Liar Liar (1997) | Average Rating: 3.16
+MovieID: 295 | Movie Title: Breakdown (1997) | Average Rating: 3.40
+MovieID: 296 | Movie Title: Promesse, La (1996) | Average Rating: 3.33
+MovieID: 297 | Movie Title: Ulee's Gold (1997) | Average Rating: 3.96
+MovieID: 298 | Movie Title: Face/Off (1997) | Average Rating: 3.77
+MovieID: 299 | Movie Title: Hoodlum (1997) | Average Rating: 2.93
+MovieID: 1503 | Movie Title: Gold Diggers: The Secret of Bear Mountain (1995) | Average Rating: 3.10
+MovieID: 1502 | Movie Title: Naked in New York (1994) | Average Rating: 1.50
+MovieID: 1501 | Movie Title: Prisoner of the Mountains (Kavkazsky Plennik) (1996) | Average Rating: 3.00
+MovieID: 1500 | Movie Title: Santa with Muscles (1996) | Average Rating: 5.00
+MovieID: 1509 | Movie Title: Getting Even with Dad (1994) | Average Rating: 1.60
+MovieID: 1508 | Movie Title: Babysitter, The (1995) | Average Rating: 2.33
+MovieID: 1507 | Movie Title: Three Lives and Only One Death (1996) | Average Rating: 3.00
+MovieID: 1506 | Movie Title: Nelly & Monsieur Arnaud (1995) | Average Rating: 3.67
+MovieID: 1505 | Movie Title: Killer: A Journal of Murder (1995) | Average Rating: 4.00
+MovieID: 1504 | Movie Title: Bewegte Mann, Der (1994) | Average Rating: 3.67
+MovieID: 1514 | Movie Title: Dream With the Fishes (1997) | Average Rating: 3.14
+MovieID: 1513 | Movie Title: Sprung (1997) | Average Rating: 2.00
+MovieID: 1512 | Movie Title: World of Apu, The (Apur Sansar) (1959) | Average Rating: 4.00
+MovieID: 1511 | Movie Title: Children of the Revolution (1996) | Average Rating: 3.20
+MovieID: 1510 | Movie Title: Mad Dog Time (1996) | Average Rating: 3.00
+MovieID: 1519 | Movie Title: New Jersey Drive (1995) | Average Rating: 3.00
+MovieID: 1518 | Movie Title: Losing Isaiah (1995) | Average Rating: 3.00
+MovieID: 1517 | Movie Title: Race the Sun (1996) | Average Rating: 2.80
+MovieID: 1516 | Movie Title: Wedding Gift, The (1994) | Average Rating: 4.00
+MovieID: 1515 | Movie Title: Wings of Courage (1995) | Average Rating: 4.00
+MovieID: 1525 | Movie Title: Object of My Affection, The (1998) | Average Rating: 4.00
+MovieID: 1524 | Movie Title: Kaspar Hauser (1993) | Average Rating: 4.25
+MovieID: 1523 | Movie Title: Good Man in Africa, A (1994) | Average Rating: 3.00
+MovieID: 1522 | Movie Title: Trial by Jury (1994) | Average Rating: 2.43
+MovieID: 1521 | Movie Title: Mr. Wonderful (1993) | Average Rating: 3.00
+MovieID: 1520 | Movie Title: Fear, The (1995) | Average Rating: 3.00
+MovieID: 1529 | Movie Title: Underground (1995) | Average Rating: 2.80
+MovieID: 1528 | Movie Title: Nowhere (1997) | Average Rating: 2.33
+MovieID: 1527 | Movie Title: Senseless (1998) | Average Rating: 2.43
+MovieID: 1526 | Movie Title: Witness (1985) | Average Rating: 4.00
+MovieID: 1536 | Movie Title: Aiqing wansui (1994) | Average Rating: 5.00
+MovieID: 1535 | Movie Title: Enfer, L' (1994) | Average Rating: 3.00
+MovieID: 1534 | Movie Title: Twin Town (1997) | Average Rating: 2.17
+MovieID: 1533 | Movie Title: I Don't Want to Talk About It (De eso no se habla) (1993) | Average Rating: 4.00
+MovieID: 1532 | Movie Title: Foreign Student (1994) | Average Rating: 2.00
+MovieID: 1531 | Movie Title: Far From Home: The Adventures of Yellow Dog (1995) | Average Rating: 3.29
+MovieID: 1530 | Movie Title: Jefferson in Paris (1995) | Average Rating: 2.00
+MovieID: 1539 | Movie Title: Being Human (1993) | Average Rating: 1.75
+MovieID: 1538 | Movie Title: All Over Me (1997) | Average Rating: 3.00
+MovieID: 1537 | Movie Title: Cosi (1996) | Average Rating: 4.00
+MovieID: 1550 | Movie Title: Destiny Turns on the Radio (1995) | Average Rating: 3.00
+MovieID: 1547 | Movie Title: Show, The (1995) | Average Rating: 3.00
+MovieID: 1546 | Movie Title: Shadows (Cienie) (1988) | Average Rating: 1.00
+MovieID: 1545 | Movie Title: Frankie Starlight (1995) | Average Rating: 2.50
+MovieID: 1544 | Movie Title: It Takes Two (1995) | Average Rating: 2.67
+MovieID: 1543 | Movie Title: Johns (1996) | Average Rating: 3.00
+MovieID: 1542 | Movie Title: Scarlet Letter, The (1926) | Average Rating: 3.00
+MovieID: 1541 | Movie Title: Beans of Egypt, Maine, The (1994) | Average Rating: 3.50
+MovieID: 1540 | Movie Title: Amazing Panda Adventure, The (1995) | Average Rating: 2.80
+MovieID: 1549 | Movie Title: Dream Man (1995) | Average Rating: 1.50
+MovieID: 1548 | Movie Title: The Courtyard (1995) | Average Rating: 1.00
+MovieID: 1561 | Movie Title: Tigrero: A Film That Was Never Made (1994) | Average Rating: 1.00
+MovieID: 1560 | Movie Title: Clean Slate (Coup de Torchon) (1981) | Average Rating: 2.75
+MovieID: 1558 | Movie Title: Aparajito (1956) | Average Rating: 3.57
+MovieID: 1557 | Movie Title: Yankee Zulu (1994) | Average Rating: 1.00
+MovieID: 1556 | Movie Title: Condition Red (1995) | Average Rating: 2.00
+MovieID: 1555 | Movie Title: Secret Adventures of Tom Thumb, The (1993) | Average Rating: 2.60
+MovieID: 1554 | Movie Title: Safe Passage (1994) | Average Rating: 3.00
+MovieID: 1553 | Movie Title: Underneath, The (1995) | Average Rating: 2.75
+MovieID: 1552 | Movie Title: Hunted, The (1995) | Average Rating: 2.00
+MovieID: 1551 | Movie Title: Glass Shield, The (1994) | Average Rating: 2.00
+MovieID: 1559 | Movie Title: Hostile Intentions (1994) | Average Rating: 1.00
+MovieID: 1572 | Movie Title: Wend Kuuni (God's Gift) (1982) | Average Rating: 1.00
+MovieID: 1571 | Movie Title: Touki Bouki (Journey of the Hyena) (1973) | Average Rating: 1.00
+MovieID: 1570 | Movie Title: Quartier Mozart (1992) | Average Rating: 1.00
+MovieID: 1569 | Movie Title: Vie est belle, La (Life is Rosey) (1987) | Average Rating: 1.00
+MovieID: 1568 | Movie Title: Vermont Is For Lovers (1992) | Average Rating: 1.00
+MovieID: 1567 | Movie Title: Careful (1992) | Average Rating: 1.00
+MovieID: 1566 | Movie Title: Man from Down Under, The (1943) | Average Rating: 1.00
+MovieID: 1565 | Movie Title: Daens (1992) | Average Rating: 1.00
+MovieID: 1564 | Movie Title: To Cross the Rubicon (1991) | Average Rating: 1.00
+MovieID: 1563 | Movie Title: Promise, The (Versprechen, Das) (1994) | Average Rating: 1.00
+MovieID: 1562 | Movie Title: Eye of Vichy, The (Oeil de Vichy, L') (1993) | Average Rating: 1.00
+MovieID: 1583 | Movie Title: Invitation, The (Zaproszenie) (1986) | Average Rating: 1.00
+MovieID: 1582 | Movie Title: T-Men (1947) | Average Rating: 1.00
+MovieID: 1581 | Movie Title: Woman in Question, The (1950) | Average Rating: 1.00
+MovieID: 1580 | Movie Title: Liebelei (1933) | Average Rating: 1.00
+MovieID: 1579 | Movie Title: Baton Rouge (1988) | Average Rating: 1.00
+MovieID: 1578 | Movie Title: Collectionneuse, La (1967) | Average Rating: 2.00
+MovieID: 1577 | Movie Title: Death in the Garden (Mort en ce jardin, La) (1956) | Average Rating: 1.00
+MovieID: 1576 | Movie Title: Hungarian Fairy Tale, A (1987) | Average Rating: 1.00
+MovieID: 1575 | Movie Title: I, Worst of All (Yo, la peor de todas) (1990) | Average Rating: 1.00
+MovieID: 1574 | Movie Title: Pharaoh's Army (1995) | Average Rating: 1.00
+MovieID: 1573 | Movie Title: Spirits of the Dead (Tre passi nel delirio) (1968) | Average Rating: 2.50
+MovieID: 1110 | Movie Title: Tank Girl (1995) | Average Rating: 2.85
+MovieID: 1594 | Movie Title: Everest (1998) | Average Rating: 4.50
+MovieID: 1593 | Movie Title: Death in Brunswick (1991) | Average Rating: 4.00
+MovieID: 1592 | Movie Title: Magic Hour, The (1998) | Average Rating: 3.60
+MovieID: 1591 | Movie Title: Duoluo tianshi (1995) | Average Rating: 3.17
+MovieID: 1590 | Movie Title: To Have, or Not (1995) | Average Rating: 2.00
+MovieID: 1107 | Movie Title: Beyond Rangoon (1995) | Average Rating: 3.06
+MovieID: 1106 | Movie Title: Newton Boys, The (1998) | Average Rating: 3.00
+MovieID: 1105 | Movie Title: Firestorm (1998) | Average Rating: 2.83
+MovieID: 1589 | Movie Title: Schizopolis (1996) | Average Rating: 3.00
+MovieID: 1104 | Movie Title: C'est arriv� pr�s de chez vous (1992) | Average Rating: 3.00
+MovieID: 1588 | Movie Title: Salut cousin! (1996) | Average Rating: 2.00
+MovieID: 1103 | Movie Title: Trust (1990) | Average Rating: 3.79
+MovieID: 1587 | Movie Title: Terror in a Texas Town (1958) | Average Rating: 1.00
+MovieID: 1102 | Movie Title: Two Much (1996) | Average Rating: 2.43
+MovieID: 1586 | Movie Title: Lashou shentan (1992) | Average Rating: 1.00
+MovieID: 1101 | Movie Title: Six Degrees of Separation (1993) | Average Rating: 3.77
+MovieID: 1585 | Movie Title: American Dream (1990) | Average Rating: 2.50
+MovieID: 1100 | Movie Title: What Happened Was... (1994) | Average Rating: 2.63
+MovieID: 1584 | Movie Title: Symphonie pastorale, La (1946) | Average Rating: 1.00
+MovieID: 1109 | Movie Title: Death and the Maiden (1994) | Average Rating: 3.43
+MovieID: 1108 | Movie Title: Feast of July (1995) | Average Rating: 2.40
+MovieID: 1121 | Movie Title: Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964) | Average Rating: 3.76
+MovieID: 1120 | Movie Title: I'm Not Rappaport (1996) | Average Rating: 3.00
+MovieID: 1118 | Movie Title: Up in Smoke (1978) | Average Rating: 3.26
+MovieID: 1117 | Movie Title: Surviving Picasso (1996) | Average Rating: 3.11
+MovieID: 1116 | Movie Title: Mark of Zorro, The (1940) | Average Rating: 3.62
+MovieID: 1115 | Movie Title: Twelfth Night (1996) | Average Rating: 3.41
+MovieID: 1599 | Movie Title: Someone Else's America (1995) | Average Rating: 5.00
+MovieID: 1114 | Movie Title: Faithful (1996) | Average Rating: 3.30
+MovieID: 1598 | Movie Title: City of Industry (1997) | Average Rating: 2.50
+MovieID: 1113 | Movie Title: Mrs. Parker and the Vicious Circle (1994) | Average Rating: 3.27
+MovieID: 1597 | Movie Title: Romper Stomper (1992) | Average Rating: 3.00
+MovieID: 1112 | Movie Title: Cobb (1994) | Average Rating: 2.80
+MovieID: 1596 | Movie Title: Nemesis 2: Nebula (1995) | Average Rating: 2.00
+MovieID: 1111 | Movie Title: Double Happiness (1994) | Average Rating: 3.43
+MovieID: 1595 | Movie Title: Shopping (1994) | Average Rating: 2.00
+MovieID: 1119 | Movie Title: Some Kind of Wonderful (1987) | Average Rating: 3.66
+MovieID: 1132 | Movie Title: Feeling Minnesota (1996) | Average Rating: 2.63
+MovieID: 1131 | Movie Title: Safe (1995) | Average Rating: 4.00
+MovieID: 1130 | Movie Title: Jupiter's Wife (1994) | Average Rating: 4.00
+MovieID: 1129 | Movie Title: Chungking Express (1994) | Average Rating: 3.57
+MovieID: 1128 | Movie Title: Heidi Fleiss: Hollywood Madam (1995)  | Average Rating: 2.69
+MovieID: 1127 | Movie Title: Truman Show, The (1998) | Average Rating: 2.91
+MovieID: 1126 | Movie Title: Old Man and the Sea, The (1958) | Average Rating: 3.34
+MovieID: 1125 | Movie Title: Innocents, The (1961) | Average Rating: 4.25
+MovieID: 1124 | Movie Title: Farewell to Arms, A (1932) | Average Rating: 3.83
+MovieID: 1123 | Movie Title: Last Time I Saw Paris, The (1954) | Average Rating: 3.67
+MovieID: 700 | Movie Title: Miami Rhapsody (1995) | Average Rating: 2.60
+MovieID: 1122 | Movie Title: They Made Me a Criminal (1939) | Average Rating: 5.00
+MovieID: 701 | Movie Title: Wonderful, Horrible Life of Leni Riefenstahl, The (1993) | Average Rating: 4.00
+MovieID: 702 | Movie Title: Barcelona (1994) | Average Rating: 3.02
+MovieID: 703 | Movie Title: Widows' Peak (1994) | Average Rating: 3.58
+MovieID: 704 | Movie Title: House of the Spirits, The (1993) | Average Rating: 3.04
+MovieID: 705 | Movie Title: Singin' in the Rain (1952) | Average Rating: 3.99
+MovieID: 706 | Movie Title: Bad Moon (1996) | Average Rating: 2.67
+MovieID: 707 | Movie Title: Enchanted April (1991) | Average Rating: 3.93
+MovieID: 708 | Movie Title: Sex, Lies, and Videotape (1989) | Average Rating: 3.48
+MovieID: 709 | Movie Title: Strictly Ballroom (1992) | Average Rating: 4.03
+MovieID: 1143 | Movie Title: Hard Eight (1996) | Average Rating: 4.00
+MovieID: 1142 | Movie Title: When We Were Kings (1996) | Average Rating: 4.05
+MovieID: 1141 | Movie Title: War Room, The (1993) | Average Rating: 3.33
+MovieID: 1140 | Movie Title: Road to Wellville, The (1994) | Average Rating: 2.29
+MovieID: 1139 | Movie Title: Hackers (1995) | Average Rating: 2.61
+MovieID: 1138 | Movie Title: Best Men (1997) | Average Rating: 3.40
+MovieID: 1137 | Movie Title: Beautiful Thing (1996) | Average Rating: 3.97
+MovieID: 1136 | Movie Title: Ghosts of Mississippi (1996) | Average Rating: 3.48
+MovieID: 1135 | Movie Title: Doors, The (1991) | Average Rating: 2.98
+MovieID: 1134 | Movie Title: Get on the Bus (1996) | Average Rating: 3.32
+MovieID: 710 | Movie Title: Better Off Dead... (1985) | Average Rating: 3.57
+MovieID: 1133 | Movie Title: Escape to Witch Mountain (1975) | Average Rating: 2.97
+MovieID: 711 | Movie Title: Substance of Fire, The (1996) | Average Rating: 4.00
+MovieID: 712 | Movie Title: Tin Men (1987) | Average Rating: 3.08
+MovieID: 713 | Movie Title: Othello (1995) | Average Rating: 3.61
+MovieID: 714 | Movie Title: Carrington (1995) | Average Rating: 3.23
+MovieID: 715 | Movie Title: To Die For (1995) | Average Rating: 3.28
+MovieID: 716 | Movie Title: Home for the Holidays (1995) | Average Rating: 3.16
+MovieID: 717 | Movie Title: Juror, The (1996) | Average Rating: 2.82
+MovieID: 718 | Movie Title: In the Bleak Midwinter (1995) | Average Rating: 3.69
+MovieID: 719 | Movie Title: Canadian Bacon (1994) | Average Rating: 2.41
+MovieID: 1154 | Movie Title: Alphaville (1965) | Average Rating: 3.33
+MovieID: 1153 | Movie Title: Backbeat (1993) | Average Rating: 3.47
+MovieID: 1152 | Movie Title: In Love and War (1996) | Average Rating: 3.43
+MovieID: 1151 | Movie Title: Original Gangstas (1996) | Average Rating: 2.14
+MovieID: 1150 | Movie Title: Last Dance (1996) | Average Rating: 3.11
+MovieID: 1149 | Movie Title: Walkabout (1971) | Average Rating: 3.85
+MovieID: 1148 | Movie Title: Tom & Viv (1994) | Average Rating: 3.33
+MovieID: 1147 | Movie Title: My Family (1995) | Average Rating: 3.67
+MovieID: 720 | Movie Title: First Knight (1995) | Average Rating: 3.02
+MovieID: 1146 | Movie Title: Calendar Girl (1993) | Average Rating: 2.00
+MovieID: 721 | Movie Title: Mallrats (1995) | Average Rating: 3.44
+MovieID: 1145 | Movie Title: Blue Chips (1994) | Average Rating: 2.67
+MovieID: 722 | Movie Title: Nine Months (1995) | Average Rating: 2.93
+MovieID: 1144 | Movie Title: Quiet Room, The (1996) | Average Rating: 3.67
+MovieID: 723 | Movie Title: Boys on the Side (1995) | Average Rating: 3.15
+MovieID: 724 | Movie Title: Circle of Friends (1995) | Average Rating: 3.49
+MovieID: 725 | Movie Title: Exit to Eden (1994) | Average Rating: 2.75
+MovieID: 726 | Movie Title: Fluke (1995) | Average Rating: 2.43
+MovieID: 727 | Movie Title: Immortal Beloved (1994) | Average Rating: 3.46
+MovieID: 728 | Movie Title: Junior (1994) | Average Rating: 3.02
+MovieID: 729 | Movie Title: Nell (1994) | Average Rating: 3.48
+MovieID: 1165 | Movie Title: Big Bully (1996) | Average Rating: 1.86
+MovieID: 1164 | Movie Title: Zeus and Roxanne (1997) | Average Rating: 2.17
+MovieID: 1163 | Movie Title: Portrait of a Lady, The (1996) | Average Rating: 2.68
+MovieID: 1162 | Movie Title: Phat Beach (1996) | Average Rating: 1.60
+MovieID: 1161 | Movie Title: Palookaville (1996) | Average Rating: 2.92
+MovieID: 1160 | Movie Title: Love! Valour! Compassion! (1997) | Average Rating: 3.62
+MovieID: 1159 | Movie Title: Stalker (1979) | Average Rating: 3.55
+MovieID: 1158 | Movie Title: Fille seule, La (A Single Girl) (1995) | Average Rating: 4.00
+MovieID: 730 | Movie Title: Queen Margot (Reine Margot, La) (1994) | Average Rating: 3.50
+MovieID: 731 | Movie Title: Corrina, Corrina (1994) | Average Rating: 3.15
+MovieID: 1157 | Movie Title: Relic, The (1997) | Average Rating: 2.88
+MovieID: 732 | Movie Title: Dave (1993) | Average Rating: 3.65
+MovieID: 1156 | Movie Title: Cyclo (1995) | Average Rating: 3.00
+MovieID: 733 | Movie Title: Go Fish (1994) | Average Rating: 3.20
+MovieID: 1155 | Movie Title: Rendezvous in Paris (Rendez-vous de Paris, Les) (1995) | Average Rating: 3.33
+MovieID: 734 | Movie Title: Made in America (1993) | Average Rating: 2.52
+MovieID: 735 | Movie Title: Philadelphia (1993) | Average Rating: 3.85
+MovieID: 736 | Movie Title: Shadowlands (1993) | Average Rating: 3.94
+MovieID: 737 | Movie Title: Sirens (1994) | Average Rating: 2.98
+MovieID: 738 | Movie Title: Threesome (1994) | Average Rating: 2.84
+MovieID: 739 | Movie Title: Pretty Woman (1990) | Average Rating: 3.32
+MovieID: 1176 | Movie Title: Welcome To Sarajevo (1997) | Average Rating: 3.36
+MovieID: 1175 | Movie Title: Hugo Pool (1997) | Average Rating: 3.40
+MovieID: 1174 | Movie Title: Caught (1996) | Average Rating: 3.25
+MovieID: 1173 | Movie Title: Bliss (1997) | Average Rating: 2.57
+MovieID: 1172 | Movie Title: Women, The (1939) | Average Rating: 3.67
+MovieID: 1171 | Movie Title: Wild Reeds (1994) | Average Rating: 3.14
+MovieID: 1170 | Movie Title: Spanking the Monkey (1994) | Average Rating: 3.07
+MovieID: 740 | Movie Title: Jane Eyre (1996) | Average Rating: 3.48
+MovieID: 741 | Movie Title: Last Supper, The (1995) | Average Rating: 3.45
+MovieID: 1169 | Movie Title: Fresh (1994) | Average Rating: 4.10
+MovieID: 742 | Movie Title: Ransom (1996) | Average Rating: 3.64
+MovieID: 1168 | Movie Title: Little Buddha (1993) | Average Rating: 3.32
+MovieID: 743 | Movie Title: Crow: City of Angels, The (1996) | Average Rating: 1.95
+MovieID: 1167 | Movie Title: Sum of Us, The (1994) | Average Rating: 3.55
+MovieID: 744 | Movie Title: Michael Collins (1996) | Average Rating: 3.46
+MovieID: 1166 | Movie Title: Love & Human Remains (1993) | Average Rating: 3.17
+MovieID: 745 | Movie Title: Ruling Class, The (1972) | Average Rating: 3.88
+MovieID: 746 | Movie Title: Real Genius (1985) | Average Rating: 3.66
+MovieID: 747 | Movie Title: Benny & Joon (1993) | Average Rating: 3.46
+MovieID: 748 | Movie Title: Saint, The (1997) | Average Rating: 3.12
+MovieID: 749 | Movie Title: MatchMaker, The (1997) | Average Rating: 3.18
+MovieID: 1187 | Movie Title: Switchblade Sisters (1975) | Average Rating: 3.23
+MovieID: 1186 | Movie Title: Inkwell, The (1994) | Average Rating: 3.33
+MovieID: 1185 | Movie Title: In the Army Now (1994) | Average Rating: 2.28
+MovieID: 1184 | Movie Title: Endless Summer 2, The (1994) | Average Rating: 2.50
+MovieID: 1183 | Movie Title: Cowboy Way, The (1994) | Average Rating: 2.21
+MovieID: 1182 | Movie Title: Cops and Robbersons (1994) | Average Rating: 2.31
+MovieID: 1181 | Movie Title: Low Down Dirty Shame, A (1994) | Average Rating: 2.50
+MovieID: 1180 | Movie Title: I Love Trouble (1994) | Average Rating: 2.50
+MovieID: 750 | Movie Title: Amistad (1997) | Average Rating: 3.85
+MovieID: 751 | Movie Title: Tomorrow Never Dies (1997) | Average Rating: 3.43
+MovieID: 752 | Movie Title: Replacement Killers, The (1998) | Average Rating: 3.31
+MovieID: 1179 | Movie Title: Man of the House (1995) | Average Rating: 2.11
+MovieID: 753 | Movie Title: Burnt By the Sun (1994) | Average Rating: 3.71
+MovieID: 1178 | Movie Title: Major Payne (1994) | Average Rating: 2.47
+MovieID: 754 | Movie Title: Red Corner (1997) | Average Rating: 3.39
+MovieID: 755 | Movie Title: Jumanji (1995) | Average Rating: 3.31
+MovieID: 1177 | Movie Title: Dunston Checks In (1996) | Average Rating: 1.86
+MovieID: 756 | Movie Title: Father of the Bride Part II (1995) | Average Rating: 2.90
+MovieID: 757 | Movie Title: Across the Sea of Time (1995) | Average Rating: 2.75
+MovieID: 758 | Movie Title: Lawnmower Man 2: Beyond Cyberspace (1996) | Average Rating: 1.71
+MovieID: 759 | Movie Title: Fair Game (1995) | Average Rating: 2.18
+MovieID: 1190 | Movie Title: That Old Feeling (1997) | Average Rating: 3.36
+MovieID: 1198 | Movie Title: Purple Noon (1960) | Average Rating: 3.14
+MovieID: 1197 | Movie Title: Family Thing, A (1996) | Average Rating: 3.56
+MovieID: 1196 | Movie Title: Savage Nights (Nuits fauves, Les) (1992) | Average Rating: 3.00
+MovieID: 1195 | Movie Title: Strawberry and Chocolate (Fresa y chocolate) (1993) | Average Rating: 3.27
+MovieID: 1194 | Movie Title: Once Were Warriors (1994) | Average Rating: 4.06
+MovieID: 1193 | Movie Title: Before the Rain (Pred dozhdot) (1994) | Average Rating: 3.80
+MovieID: 1192 | Movie Title: Boys of St. Vincent, The (1993) | Average Rating: 3.38
+MovieID: 1191 | Movie Title: Letter From Death Row, A (1998) | Average Rating: 4.33
+MovieID: 760 | Movie Title: Screamers (1995) | Average Rating: 2.65
+MovieID: 761 | Movie Title: Nick of Time (1995) | Average Rating: 3.05
+MovieID: 762 | Movie Title: Beautiful Girls (1996) | Average Rating: 3.39
+MovieID: 763 | Movie Title: Happy Gilmore (1996) | Average Rating: 3.39
+MovieID: 764 | Movie Title: If Lucy Fell (1996) | Average Rating: 2.76
+MovieID: 765 | Movie Title: Boomerang (1992) | Average Rating: 2.81
+MovieID: 1189 | Movie Title: Prefontaine (1997) | Average Rating: 5.00
+MovieID: 766 | Movie Title: Man of the Year (1995) | Average Rating: 3.11
+MovieID: 1188 | Movie Title: Young Guns II (1990) | Average Rating: 2.77
+MovieID: 767 | Movie Title: Addiction, The (1995) | Average Rating: 2.18
+MovieID: 768 | Movie Title: Casper (1995) | Average Rating: 3.08
+MovieID: 769 | Movie Title: Congo (1995) | Average Rating: 2.45
+MovieID: 770 | Movie Title: Devil in a Blue Dress (1995) | Average Rating: 3.39
+MovieID: 771 | Movie Title: Johnny Mnemonic (1995) | Average Rating: 2.63
+MovieID: 772 | Movie Title: Kids (1995) | Average Rating: 3.06
+MovieID: 773 | Movie Title: Mute Witness (1994) | Average Rating: 2.94
+MovieID: 774 | Movie Title: Prophecy, The (1995) | Average Rating: 2.94
+MovieID: 775 | Movie Title: Something to Talk About (1995) | Average Rating: 2.77
+MovieID: 776 | Movie Title: Three Wishes (1995) | Average Rating: 3.22
+MovieID: 1199 | Movie Title: Cemetery Man (Dellamorte Dellamore) (1994) | Average Rating: 2.87
+MovieID: 777 | Movie Title: Castle Freak (1995) | Average Rating: 1.25
+MovieID: 778 | Movie Title: Don Juan DeMarco (1995) | Average Rating: 3.55
+MovieID: 779 | Movie Title: Drop Zone (1994) | Average Rating: 2.55
+MovieID: 780 | Movie Title: Dumb & Dumber (1994) | Average Rating: 3.00
+MovieID: 781 | Movie Title: French Kiss (1995) | Average Rating: 3.33
+MovieID: 782 | Movie Title: Little Odessa (1994) | Average Rating: 2.60
+MovieID: 783 | Movie Title: Milk Money (1994) | Average Rating: 2.73
+MovieID: 300 | Movie Title: Air Force One (1997) | Average Rating: 3.63
+MovieID: 784 | Movie Title: Beyond Bedlam (1993) | Average Rating: 1.00
+MovieID: 785 | Movie Title: Only You (1994) | Average Rating: 3.15
+MovieID: 301 | Movie Title: In & Out (1997) | Average Rating: 3.30
+MovieID: 302 | Movie Title: L.A. Confidential (1997) | Average Rating: 4.16
+MovieID: 786 | Movie Title: Perez Family, The (1995) | Average Rating: 2.64
+MovieID: 787 | Movie Title: Roommates (1995) | Average Rating: 3.23
+MovieID: 303 | Movie Title: Ulee's Gold (1997) | Average Rating: 3.69
+MovieID: 304 | Movie Title: Fly Away Home (1996) | Average Rating: 3.54
+MovieID: 788 | Movie Title: Relative Fear (1994) | Average Rating: 1.67
+MovieID: 789 | Movie Title: Swimming with Sharks (1995) | Average Rating: 3.57
+MovieID: 305 | Movie Title: Ice Storm, The (1997) | Average Rating: 3.64
+MovieID: 306 | Movie Title: Mrs. Brown (Her Majesty, Mrs. Brown) (1997) | Average Rating: 3.95
+MovieID: 307 | Movie Title: Devil's Advocate, The (1997) | Average Rating: 3.52
+MovieID: 308 | Movie Title: FairyTale: A True Story (1997) | Average Rating: 2.97
+MovieID: 309 | Movie Title: Deceiver (1997) | Average Rating: 2.86
+MovieID: 790 | Movie Title: Tommy Boy (1995) | Average Rating: 2.91
+MovieID: 791 | Movie Title: Baby-Sitters Club, The (1995) | Average Rating: 2.50
+MovieID: 792 | Movie Title: Bullets Over Broadway (1994) | Average Rating: 3.72
+MovieID: 793 | Movie Title: Crooklyn (1994) | Average Rating: 3.50
+MovieID: 794 | Movie Title: It Could Happen to You (1994) | Average Rating: 3.65
+MovieID: 310 | Movie Title: Rainmaker, The (1997) | Average Rating: 3.60
+MovieID: 311 | Movie Title: Wings of the Dove, The (1997) | Average Rating: 3.68
+MovieID: 795 | Movie Title: Richie Rich (1994) | Average Rating: 2.43
+MovieID: 796 | Movie Title: Speechless (1994) | Average Rating: 3.08
+MovieID: 312 | Movie Title: Midnight in the Garden of Good and Evil (1997) | Average Rating: 3.16
+MovieID: 313 | Movie Title: Titanic (1997) | Average Rating: 4.25
+MovieID: 797 | Movie Title: Timecop (1994) | Average Rating: 3.10
+MovieID: 314 | Movie Title: 3 Ninjas: High Noon At Mega Mountain (1998) | Average Rating: 1.00
+MovieID: 798 | Movie Title: Bad Company (1995) | Average Rating: 2.22
+MovieID: 315 | Movie Title: Apt Pupil (1998) | Average Rating: 4.10
+MovieID: 799 | Movie Title: Boys Life (1995) | Average Rating: 3.20
+MovieID: 316 | Movie Title: As Good As It Gets (1997) | Average Rating: 4.20
+MovieID: 317 | Movie Title: In the Name of the Father (1993) | Average Rating: 3.91
+MovieID: 318 | Movie Title: Schindler's List (1993) | Average Rating: 4.47
+MovieID: 319 | Movie Title: Everyone Says I Love You (1996) | Average Rating: 3.27
+MovieID: 320 | Movie Title: Paradise Lost: The Child Murders at Robin Hood Hills (1996) | Average Rating: 4.05
+MovieID: 321 | Movie Title: Mother (1996) | Average Rating: 3.13
+MovieID: 322 | Movie Title: Murder at 1600 (1997) | Average Rating: 3.09
+MovieID: 323 | Movie Title: Dante's Peak (1997) | Average Rating: 2.93
+MovieID: 324 | Movie Title: Lost Highway (1997) | Average Rating: 3.14
+MovieID: 325 | Movie Title: Crash (1996) | Average Rating: 2.55
+MovieID: 326 | Movie Title: G.I. Jane (1997) | Average Rating: 3.36
+MovieID: 327 | Movie Title: Cop Land (1997) | Average Rating: 3.38
+MovieID: 328 | Movie Title: Conspiracy Theory (1997) | Average Rating: 3.42
+MovieID: 329 | Movie Title: Desperate Measures (1998) | Average Rating: 3.33
+MovieID: 330 | Movie Title: 187 (1997) | Average Rating: 3.02
+MovieID: 331 | Movie Title: Edge, The (1997) | Average Rating: 3.54
+MovieID: 332 | Movie Title: Kiss the Girls (1997) | Average Rating: 3.46
+MovieID: 333 | Movie Title: Game, The (1997) | Average Rating: 3.59
+MovieID: 334 | Movie Title: U Turn (1997) | Average Rating: 3.36
+MovieID: 335 | Movie Title: How to Be a Player (1997) | Average Rating: 2.76
+MovieID: 336 | Movie Title: Playing God (1997) | Average Rating: 2.63
+MovieID: 337 | Movie Title: House of Yes, The (1997) | Average Rating: 3.00
+MovieID: 338 | Movie Title: Bean (1997) | Average Rating: 2.66
+MovieID: 339 | Movie Title: Mad City (1997) | Average Rating: 3.26
+MovieID: 340 | Movie Title: Boogie Nights (1997) | Average Rating: 3.59
+MovieID: 341 | Movie Title: Critical Care (1997) | Average Rating: 3.09
+MovieID: 342 | Movie Title: Man Who Knew Too Little, The (1997) | Average Rating: 2.92
+MovieID: 343 | Movie Title: Alien: Resurrection (1997) | Average Rating: 3.10
+MovieID: 344 | Movie Title: Apostle, The (1997) | Average Rating: 3.65
+MovieID: 345 | Movie Title: Deconstructing Harry (1997) | Average Rating: 3.40
+MovieID: 346 | Movie Title: Jackie Brown (1997) | Average Rating: 3.64
+MovieID: 347 | Movie Title: Wag the Dog (1997) | Average Rating: 3.51
+MovieID: 348 | Movie Title: Desperate Measures (1998) | Average Rating: 3.30
+MovieID: 349 | Movie Title: Hard Rain (1998) | Average Rating: 2.90
+MovieID: 350 | Movie Title: Fallen (1998) | Average Rating: 3.15
+MovieID: 351 | Movie Title: Prophecy II, The (1998) | Average Rating: 2.70
+MovieID: 352 | Movie Title: Spice World (1997) | Average Rating: 2.12
+MovieID: 353 | Movie Title: Deep Rising (1998) | Average Rating: 2.43
+MovieID: 354 | Movie Title: Wedding Singer, The (1998) | Average Rating: 3.49
+MovieID: 355 | Movie Title: Sphere (1998) | Average Rating: 2.93
+MovieID: 356 | Movie Title: Client, The (1994) | Average Rating: 3.38
+MovieID: 357 | Movie Title: One Flew Over the Cuckoo's Nest (1975) | Average Rating: 4.29
+MovieID: 358 | Movie Title: Spawn (1997) | Average Rating: 2.62
+MovieID: 359 | Movie Title: Assignment, The (1997) | Average Rating: 3.50
+MovieID: 10 | Movie Title: Richard III (1995) | Average Rating: 3.83
+MovieID: 11 | Movie Title: Seven (Se7en) (1995) | Average Rating: 3.85
+MovieID: 12 | Movie Title: Usual Suspects, The (1995) | Average Rating: 4.39
+MovieID: 13 | Movie Title: Mighty Aphrodite (1995) | Average Rating: 3.42
+MovieID: 14 | Movie Title: Postino, Il (1994) | Average Rating: 3.97
+MovieID: 15 | Movie Title: Mr. Holland's Opus (1995) | Average Rating: 3.78
+MovieID: 16 | Movie Title: French Twist (Gazon maudit) (1995) | Average Rating: 3.21
+MovieID: 17 | Movie Title: From Dusk Till Dawn (1996) | Average Rating: 3.12
+MovieID: 18 | Movie Title: White Balloon, The (1995) | Average Rating: 2.80
+MovieID: 19 | Movie Title: Antonia's Line (1995) | Average Rating: 3.96
+MovieID: 360 | Movie Title: Wonderland (1997) | Average Rating: 3.20
+MovieID: 361 | Movie Title: Incognito (1997) | Average Rating: 3.50
+MovieID: 362 | Movie Title: Blues Brothers 2000 (1998) | Average Rating: 2.82
+MovieID: 363 | Movie Title: Sudden Death (1995) | Average Rating: 2.72
+MovieID: 364 | Movie Title: Ace Ventura: When Nature Calls (1995) | Average Rating: 2.68
+MovieID: 365 | Movie Title: Powder (1995) | Average Rating: 3.21
+MovieID: 366 | Movie Title: Dangerous Minds (1995) | Average Rating: 3.34
+MovieID: 367 | Movie Title: Clueless (1995) | Average Rating: 3.46
+MovieID: 368 | Movie Title: Bio-Dome (1996) | Average Rating: 1.90
+MovieID: 369 | Movie Title: Black Sheep (1996) | Average Rating: 2.64
+MovieID: 20 | Movie Title: Angels and Insects (1995) | Average Rating: 3.42
+MovieID: 21 | Movie Title: Muppet Treasure Island (1996) | Average Rating: 2.76
+MovieID: 22 | Movie Title: Braveheart (1995) | Average Rating: 4.15
+MovieID: 23 | Movie Title: Taxi Driver (1976) | Average Rating: 4.12
+MovieID: 24 | Movie Title: Rumble in the Bronx (1995) | Average Rating: 3.45
+MovieID: 25 | Movie Title: Birdcage, The (1996) | Average Rating: 3.44
+MovieID: 26 | Movie Title: Brothers McMullen, The (1995) | Average Rating: 3.45
+MovieID: 27 | Movie Title: Bad Boys (1995) | Average Rating: 3.11
+MovieID: 28 | Movie Title: Apollo 13 (1995) | Average Rating: 3.93
+MovieID: 29 | Movie Title: Batman Forever (1995) | Average Rating: 2.67
+MovieID: 370 | Movie Title: Mary Reilly (1996) | Average Rating: 2.82
+MovieID: 371 | Movie Title: Bridges of Madison County, The (1995) | Average Rating: 3.16
+MovieID: 372 | Movie Title: Jeffrey (1995) | Average Rating: 3.53
+MovieID: 373 | Movie Title: Judge Dredd (1995) | Average Rating: 2.90
+MovieID: 374 | Movie Title: Mighty Morphin Power Rangers: The Movie (1995) | Average Rating: 2.27
+MovieID: 375 | Movie Title: Showgirls (1995) | Average Rating: 1.96
+MovieID: 376 | Movie Title: Houseguest (1994) | Average Rating: 2.83
+MovieID: 377 | Movie Title: Heavyweights (1994) | Average Rating: 2.15
+MovieID: 378 | Movie Title: Miracle on 34th Street (1994) | Average Rating: 3.72
+MovieID: 379 | Movie Title: Tales From the Crypt Presents: Demon Knight (1995) | Average Rating: 2.98
+MovieID: 30 | Movie Title: Belle de jour (1967) | Average Rating: 3.95
+MovieID: 31 | Movie Title: Crimson Tide (1995) | Average Rating: 3.63
+MovieID: 32 | Movie Title: Crumb (1994) | Average Rating: 3.79
+MovieID: 33 | Movie Title: Desperado (1995) | Average Rating: 3.45
+MovieID: 34 | Movie Title: Doom Generation, The (1995) | Average Rating: 2.71
+MovieID: 35 | Movie Title: Free Willy 2: The Adventure Home (1995) | Average Rating: 2.18
+MovieID: 36 | Movie Title: Mad Love (1995) | Average Rating: 2.15
+MovieID: 37 | Movie Title: Nadja (1994) | Average Rating: 2.25
+MovieID: 38 | Movie Title: Net, The (1995) | Average Rating: 3.01
+MovieID: 39 | Movie Title: Strange Days (1995) | Average Rating: 3.26
+MovieID: 380 | Movie Title: Star Trek: Generations (1994) | Average Rating: 3.34
+MovieID: 381 | Movie Title: Muriel's Wedding (1994) | Average Rating: 3.55
+MovieID: 382 | Movie Title: Adventures of Priscilla, Queen of the Desert, The (1994) | Average Rating: 3.59
+MovieID: 383 | Movie Title: Flintstones, The (1994) | Average Rating: 2.06
+MovieID: 384 | Movie Title: Naked Gun 33 1/3: The Final Insult (1994) | Average Rating: 2.78
+MovieID: 385 | Movie Title: True Lies (1994) | Average Rating: 3.56
+MovieID: 386 | Movie Title: Addams Family Values (1993) | Average Rating: 2.82
+MovieID: 387 | Movie Title: Age of Innocence, The (1993) | Average Rating: 3.38
+MovieID: 388 | Movie Title: Beverly Hills Cop III (1994) | Average Rating: 2.39
+MovieID: 389 | Movie Title: Black Beauty (1994) | Average Rating: 3.44
+MovieID: 40 | Movie Title: To Wong Foo, Thanks for Everything! Julie Newmar (1995) | Average Rating: 2.89
+MovieID: 41 | Movie Title: Billy Madison (1995) | Average Rating: 3.08
+MovieID: 42 | Movie Title: Clerks (1994) | Average Rating: 3.80
+MovieID: 43 | Movie Title: Disclosure (1994) | Average Rating: 3.00
+MovieID: 44 | Movie Title: Dolores Claiborne (1994) | Average Rating: 3.34
+MovieID: 45 | Movie Title: Eat Drink Man Woman (1994) | Average Rating: 4.05
+MovieID: 46 | Movie Title: Exotica (1994) | Average Rating: 3.56
+MovieID: 47 | Movie Title: Ed Wood (1994) | Average Rating: 3.60
+MovieID: 48 | Movie Title: Hoop Dreams (1994) | Average Rating: 4.09
+MovieID: 49 | Movie Title: I.Q. (1994) | Average Rating: 3.32
+MovieID: 390 | Movie Title: Fear of a Black Hat (1993) | Average Rating: 3.20
+MovieID: 391 | Movie Title: Last Action Hero (1993) | Average Rating: 2.75
+MovieID: 392 | Movie Title: Man Without a Face, The (1993) | Average Rating: 3.54
+MovieID: 393 | Movie Title: Mrs. Doubtfire (1993) | Average Rating: 3.41
+MovieID: 394 | Movie Title: Radioland Murders (1994) | Average Rating: 3.33
+MovieID: 395 | Movie Title: Robin Hood: Men in Tights (1993) | Average Rating: 2.59
+MovieID: 396 | Movie Title: Serial Mom (1994) | Average Rating: 2.81
+MovieID: 397 | Movie Title: Striking Distance (1993) | Average Rating: 2.58
+MovieID: 398 | Movie Title: Super Mario Bros. (1993) | Average Rating: 2.08
+MovieID: 399 | Movie Title: Three Musketeers, The (1993) | Average Rating: 3.30
+MovieID: 50 | Movie Title: Star Wars (1977) | Average Rating: 4.36
+MovieID: 51 | Movie Title: Legends of the Fall (1994) | Average Rating: 3.46
+MovieID: 52 | Movie Title: Madness of King George, The (1994) | Average Rating: 3.77
+MovieID: 53 | Movie Title: Natural Born Killers (1994) | Average Rating: 2.95
+MovieID: 54 | Movie Title: Outbreak (1995) | Average Rating: 3.24
+MovieID: 55 | Movie Title: Professional, The (1994) | Average Rating: 3.70
+MovieID: 56 | Movie Title: Pulp Fiction (1994) | Average Rating: 4.06
+MovieID: 57 | Movie Title: Priest (1994) | Average Rating: 4.00
+MovieID: 58 | Movie Title: Quiz Show (1994) | Average Rating: 3.65
+MovieID: 59 | Movie Title: Three Colors: Red (1994) | Average Rating: 4.06
+MovieID: 60 | Movie Title: Three Colors: Blue (1993) | Average Rating: 4.02
+MovieID: 61 | Movie Title: Three Colors: White (1994) | Average Rating: 3.86
+MovieID: 62 | Movie Title: Stargate (1994) | Average Rating: 3.14
+MovieID: 63 | Movie Title: Santa Clause, The (1994) | Average Rating: 3.10
+MovieID: 64 | Movie Title: Shawshank Redemption, The (1994) | Average Rating: 4.45
+MovieID: 65 | Movie Title: What's Eating Gilbert Grape (1993) | Average Rating: 3.54
+MovieID: 66 | Movie Title: While You Were Sleeping (1995) | Average Rating: 3.55
+MovieID: 67 | Movie Title: Ace Ventura: Pet Detective (1994) | Average Rating: 3.05
+MovieID: 68 | Movie Title: Crow, The (1994) | Average Rating: 3.42
+MovieID: 69 | Movie Title: Forrest Gump (1994) | Average Rating: 3.85
+MovieID: 70 | Movie Title: Four Weddings and a Funeral (1994) | Average Rating: 3.66
+MovieID: 71 | Movie Title: Lion King, The (1994) | Average Rating: 3.78
+MovieID: 72 | Movie Title: Mask, The (1994) | Average Rating: 3.19
+MovieID: 73 | Movie Title: Maverick (1994) | Average Rating: 3.47
+MovieID: 74 | Movie Title: Faster Pussycat! Kill! Kill! (1965) | Average Rating: 3.00
+MovieID: 75 | Movie Title: Brother Minister: The Assassination of Malcolm X (1994) | Average Rating: 3.00
+MovieID: 76 | Movie Title: Carlito's Way (1993) | Average Rating: 3.41
+MovieID: 77 | Movie Title: Firm, The (1993) | Average Rating: 3.28
+MovieID: 78 | Movie Title: Free Willy (1993) | Average Rating: 2.45
+MovieID: 79 | Movie Title: Fugitive, The (1993) | Average Rating: 4.04
+MovieID: 1602 | Movie Title: Price Above Rubies, A (1998) | Average Rating: 3.33
+MovieID: 1601 | Movie Title: Office Killer (1997) | Average Rating: 1.00
+MovieID: 1600 | Movie Title: Guantanamera (1994) | Average Rating: 3.75
+MovieID: 80 | Movie Title: Hot Shots! Part Deux (1993) | Average Rating: 2.76
+MovieID: 81 | Movie Title: Hudsucker Proxy, The (1994) | Average Rating: 3.55
+MovieID: 1609 | Movie Title: B*A*P*S (1997) | Average Rating: 1.67
+MovieID: 82 | Movie Title: Jurassic Park (1993) | Average Rating: 3.72
+MovieID: 1608 | Movie Title: Buddy (1997) | Average Rating: 2.25
+MovieID: 83 | Movie Title: Much Ado About Nothing (1993) | Average Rating: 4.06
+MovieID: 1607 | Movie Title: Hurricane Streets (1998) | Average Rating: 3.33
+MovieID: 84 | Movie Title: Robert A. Heinlein's The Puppet Masters (1994) | Average Rating: 3.00
+MovieID: 1606 | Movie Title: Deceiver (1997) | Average Rating: 2.00
+MovieID: 85 | Movie Title: Ref, The (1994) | Average Rating: 3.03
+MovieID: 1605 | Movie Title: Love Serenade (1996) | Average Rating: 3.00
+MovieID: 86 | Movie Title: Remains of the Day, The (1993) | Average Rating: 3.94
+MovieID: 1604 | Movie Title: He Walked by Night (1948) | Average Rating: 4.00
+MovieID: 87 | Movie Title: Searching for Bobby Fischer (1993) | Average Rating: 3.91
+MovieID: 1603 | Movie Title: Angela (1995) | Average Rating: 3.00
+MovieID: 88 | Movie Title: Sleepless in Seattle (1993) | Average Rating: 3.54
+MovieID: 89 | Movie Title: Blade Runner (1982) | Average Rating: 4.14
+MovieID: 1613 | Movie Title: Tokyo Fist (1995) | Average Rating: 4.00
+MovieID: 1612 | Movie Title: Leading Man, The (1996) | Average Rating: 3.75
+MovieID: 1611 | Movie Title: Intimate Relations (1996) | Average Rating: 3.00
+MovieID: 1610 | Movie Title: Truth or Consequences, N.M. (1997) | Average Rating: 2.00
+MovieID: 90 | Movie Title: So I Married an Axe Murderer (1993) | Average Rating: 3.05
+MovieID: 91 | Movie Title: Nightmare Before Christmas, The (1993) | Average Rating: 3.59
+MovieID: 92 | Movie Title: True Romance (1993) | Average Rating: 3.62
+MovieID: 93 | Movie Title: Welcome to the Dollhouse (1995) | Average Rating: 3.72
+MovieID: 1619 | Movie Title: All Things Fair (1996) | Average Rating: 3.00
+MovieID: 94 | Movie Title: Home Alone (1990) | Average Rating: 3.09
+MovieID: 1618 | Movie Title: King of New York (1990) | Average Rating: 1.00
+MovieID: 95 | Movie Title: Aladdin (1992) | Average Rating: 3.81
+MovieID: 1617 | Movie Title: Hugo Pool (1997) | Average Rating: 3.00
+MovieID: 96 | Movie Title: Terminator 2: Judgment Day (1991) | Average Rating: 4.01
+MovieID: 1616 | Movie Title: Desert Winds (1995) | Average Rating: 4.00
+MovieID: 97 | Movie Title: Dances with Wolves (1990) | Average Rating: 3.79
+MovieID: 1615 | Movie Title: Warriors of Virtue (1997) | Average Rating: 3.00
+MovieID: 98 | Movie Title: Silence of the Lambs, The (1991) | Average Rating: 4.29
+MovieID: 1614 | Movie Title: Reluctant Debutante, The (1958) | Average Rating: 3.00
+MovieID: 99 | Movie Title: Snow White and the Seven Dwarfs (1937) | Average Rating: 3.71
+MovieID: 1624 | Movie Title: Hush (1998) | Average Rating: 2.00
+MovieID: 1623 | Movie Title: C�r�monie, La (1995) | Average Rating: 4.00
+MovieID: 1622 | Movie Title: Paris, France (1993) | Average Rating: 2.33
+MovieID: 1621 | Movie Title: Butterfly Kiss (1995) | Average Rating: 1.00
+MovieID: 1620 | Movie Title: Sixth Man, The (1997) | Average Rating: 3.22
+MovieID: 1629 | Movie Title: Nico Icon (1995) | Average Rating: 4.00
+MovieID: 1628 | Movie Title: Lamerica (1994) | Average Rating: 3.75
+MovieID: 1627 | Movie Title: Wife, The (1995) | Average Rating: 3.00
+MovieID: 1626 | Movie Title: Nobody Loves Me (Keiner liebt mich) (1994) | Average Rating: 1.00
+MovieID: 1625 | Movie Title: Nightwatch (1997) | Average Rating: 4.00
+MovieID: 1635 | Movie Title: Two Friends (1986)  | Average Rating: 3.00
+MovieID: 1634 | Movie Title: Etz Hadomim Tafus (Under the Domin Tree) (1994) | Average Rating: 2.00
+MovieID: 1633 | Movie Title: � k�ldum klaka (Cold Fever) (1994) | Average Rating: 3.00
+MovieID: 1632 | Movie Title: Land and Freedom (Tierra y libertad) (1995) | Average Rating: 3.00
+MovieID: 1631 | Movie Title: Slingshot, The (1993) | Average Rating: 3.50
+MovieID: 1630 | Movie Title: Silence of the Palace, The (Saimt el Qusur) (1994) | Average Rating: 3.00
+MovieID: 1639 | Movie Title: Bitter Sugar (Azucar Amargo) (1996) | Average Rating: 4.33
+MovieID: 1638 | Movie Title: Normal Life (1996) | Average Rating: 3.00
+MovieID: 1637 | Movie Title: Girls Town (1996) | Average Rating: 3.00
+MovieID: 1636 | Movie Title: Brothers in Trouble (1995) | Average Rating: 4.00
+MovieID: 1646 | Movie Title: Men With Guns (1997) | Average Rating: 3.50
+MovieID: 1645 | Movie Title: Butcher Boy, The (1998) | Average Rating: 4.00
+MovieID: 1644 | Movie Title: Sudden Manhattan (1996) | Average Rating: 1.50
+MovieID: 1643 | Movie Title: Angel Baby (1995) | Average Rating: 3.75
+MovieID: 1642 | Movie Title: Some Mother's Son (1996) | Average Rating: 4.50
+MovieID: 1641 | Movie Title: Dadetown (1995) | Average Rating: 3.00
+MovieID: 1640 | Movie Title: Eighth Day, The (1996) | Average Rating: 3.00
+MovieID: 1649 | Movie Title: Big One, The (1997) | Average Rating: 3.00
+MovieID: 1648 | Movie Title: Niagara, Niagara (1997) | Average Rating: 2.00
+MovieID: 1647 | Movie Title: Hana-bi (1997) | Average Rating: 3.00
+MovieID: 1660 | Movie Title: Small Faces (1995) | Average Rating: 2.00
+MovieID: 1657 | Movie Title: Target (1995) | Average Rating: 3.00
+MovieID: 1656 | Movie Title: Little City (1998) | Average Rating: 3.50
+MovieID: 1655 | Movie Title: Favor, The (1994) | Average Rating: 2.00
+MovieID: 1654 | Movie Title: Chairman of the Board (1998) | Average Rating: 1.00
+MovieID: 1653 | Movie Title: Entertaining Angels: The Dorothy Day Story (1996) | Average Rating: 5.00
+MovieID: 1652 | Movie Title: Temptress Moon (Feng Yue) (1996) | Average Rating: 1.67
+MovieID: 1651 | Movie Title: Spanish Prisoner, The (1997) | Average Rating: 4.00
+MovieID: 1650 | Movie Title: Butcher Boy, The (1998) | Average Rating: 4.00
+MovieID: 1659 | Movie Title: Getting Away With Murder (1996) | Average Rating: 1.00
+MovieID: 1658 | Movie Title: Substance of Fire, The (1996) | Average Rating: 3.00
+MovieID: 1671 | Movie Title: Further Gesture, A (1996) | Average Rating: 1.00
+MovieID: 1670 | Movie Title: Tainted (1998) | Average Rating: 3.00
+MovieID: 1668 | Movie Title: Wedding Bell Blues (1996) | Average Rating: 3.00
+MovieID: 1667 | Movie Title: Next Step, The (1995) | Average Rating: 3.00
+MovieID: 1666 | Movie Title: Ripe (1996) | Average Rating: 2.00
+MovieID: 1665 | Movie Title: Brother's Kiss, A (1997) | Average Rating: 2.00
+MovieID: 1664 | Movie Title: 8 Heads in a Duffel Bag (1997) | Average Rating: 3.25
+MovieID: 1663 | Movie Title: Nothing Personal (1995) | Average Rating: 2.00
+MovieID: 1662 | Movie Title: Rough Magic (1995) | Average Rating: 2.50
+MovieID: 1661 | Movie Title: New Age, The (1994) | Average Rating: 1.00
+MovieID: 1669 | Movie Title: MURDER and murder (1996) | Average Rating: 2.00
+MovieID: 1682 | Movie Title: Scream of Stone (Schrei aus Stein) (1991) | Average Rating: 3.00
+MovieID: 1681 | Movie Title: You So Crazy (1994) | Average Rating: 3.00
+MovieID: 1680 | Movie Title: Sliding Doors (1998) | Average Rating: 2.00
+MovieID: 1679 | Movie Title: B. Monkey (1998) | Average Rating: 3.00
+MovieID: 1678 | Movie Title: Mat' i syn (1997) | Average Rating: 1.00
+MovieID: 1677 | Movie Title: Sweet Nothing (1995) | Average Rating: 3.00
+MovieID: 1676 | Movie Title: War at Home, The (1996) | Average Rating: 2.00
+MovieID: 1675 | Movie Title: Sunchaser, The (1996) | Average Rating: 3.00
+MovieID: 1674 | Movie Title: Mamma Roma (1962) | Average Rating: 4.00
+MovieID: 1673 | Movie Title: Mirage (1995) | Average Rating: 3.00
+MovieID: 1672 | Movie Title: Kika (1993) | Average Rating: 2.00
+MovieID: 1206 | Movie Title: Amos & Andrew (1993) | Average Rating: 2.68
+MovieID: 1205 | Movie Title: Secret Agent, The (1996) | Average Rating: 3.00
+MovieID: 1204 | Movie Title: To Be or Not to Be (1942) | Average Rating: 3.61
+MovieID: 1203 | Movie Title: Top Hat (1935) | Average Rating: 4.05
+MovieID: 1202 | Movie Title: Maybe, Maybe Not (Bewegte Mann, Der) (1994) | Average Rating: 3.50
+MovieID: 1201 | Movie Title: Marlene Dietrich: Shadow and Light (1996)  | Average Rating: 5.00
+MovieID: 1200 | Movie Title: Kim (1950) | Average Rating: 3.29
+MovieID: 1209 | Movie Title: Mixed Nuts (1994) | Average Rating: 2.53
+MovieID: 1208 | Movie Title: Kiss of Death (1995) | Average Rating: 2.85
+MovieID: 1207 | Movie Title: Jade (1995) | Average Rating: 2.29
+MovieID: 1220 | Movie Title: Higher Learning (1995) | Average Rating: 3.33
+MovieID: 1217 | Movie Title: Assassins (1995) | Average Rating: 2.87
+MovieID: 1216 | Movie Title: Kissed (1996) | Average Rating: 3.00
+MovieID: 1215 | Movie Title: Barb Wire (1996) | Average Rating: 1.93
+MovieID: 1214 | Movie Title: In the Realm of the Senses (Ai no corrida) (1976) | Average Rating: 2.00
+MovieID: 1213 | Movie Title: Guilty as Sin (1993) | Average Rating: 2.17
+MovieID: 1212 | Movie Title: Flesh and Bone (1993) | Average Rating: 2.83
+MovieID: 1211 | Movie Title: Blue Sky (1994) | Average Rating: 3.42
+MovieID: 1210 | Movie Title: Virtuosity (1995) | Average Rating: 2.74
+MovieID: 1219 | Movie Title: Goofy Movie, A (1995) | Average Rating: 2.90
+MovieID: 1218 | Movie Title: Friday (1995) | Average Rating: 3.46
+MovieID: 1231 | Movie Title: Marked for Death (1990) | Average Rating: 2.50
+MovieID: 1230 | Movie Title: Ready to Wear (Pret-A-Porter) (1994) | Average Rating: 1.83
+MovieID: 1228 | Movie Title: Under Siege 2: Dark Territory (1995) | Average Rating: 2.46
+MovieID: 1227 | Movie Title: Awfully Big Adventure, An (1995) | Average Rating: 2.38
+MovieID: 1226 | Movie Title: Night Falls on Manhattan (1997) | Average Rating: 3.38
+MovieID: 1225 | Movie Title: Angus (1995) | Average Rating: 2.64
+MovieID: 1224 | Movie Title: Scout, The (1994) | Average Rating: 2.67
+MovieID: 1223 | Movie Title: King of the Hill (1993) | Average Rating: 3.50
+MovieID: 1222 | Movie Title: Judgment Night (1993) | Average Rating: 2.68
+MovieID: 1221 | Movie Title: When a Man Loves a Woman (1994) | Average Rating: 3.49
+MovieID: 800 | Movie Title: In the Mouth of Madness (1995) | Average Rating: 2.88
+MovieID: 801 | Movie Title: Air Up There, The (1994) | Average Rating: 2.81
+MovieID: 802 | Movie Title: Hard Target (1993) | Average Rating: 2.70
+MovieID: 803 | Movie Title: Heaven & Earth (1993) | Average Rating: 2.56
+MovieID: 804 | Movie Title: Jimmy Hollywood (1994) | Average Rating: 2.88
+MovieID: 805 | Movie Title: Manhattan Murder Mystery (1993) | Average Rating: 3.63
+MovieID: 806 | Movie Title: Menace II Society (1993) | Average Rating: 3.46
+MovieID: 807 | Movie Title: Poetic Justice (1993) | Average Rating: 2.78
+MovieID: 1229 | Movie Title: Poison Ivy II (1995) | Average Rating: 2.15
+MovieID: 808 | Movie Title: Program, The (1993) | Average Rating: 2.84
+MovieID: 809 | Movie Title: Rising Sun (1993) | Average Rating: 2.91
+MovieID: 1242 | Movie Title: Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991) | Average Rating: 2.60
+MovieID: 1241 | Movie Title: Van, The (1996) | Average Rating: 2.67
+MovieID: 1240 | Movie Title: Ghost in the Shell (Kokaku kidotai) (1995) | Average Rating: 3.65
+MovieID: 1239 | Movie Title: Cutthroat Island (1995) | Average Rating: 2.44
+MovieID: 1238 | Movie Title: Full Speed (1996) | Average Rating: 3.13
+MovieID: 1237 | Movie Title: Twisted (1996) | Average Rating: 3.50
+MovieID: 1236 | Movie Title: Other Voices, Other Rooms (1997) | Average Rating: 3.00
+MovieID: 1235 | Movie Title: Big Bang Theory, The (1994) | Average Rating: 4.00
+MovieID: 1234 | Movie Title: Chairman of the Board (1998) | Average Rating: 2.38
+MovieID: 1233 | Movie Title: N�nette et Boni (1996) | Average Rating: 3.50
+MovieID: 810 | Movie Title: Shadow, The (1994) | Average Rating: 2.89
+MovieID: 1232 | Movie Title: Madonna: Truth or Dare (1991) | Average Rating: 2.47
+MovieID: 811 | Movie Title: Thirty-Two Short Films About Glenn Gould (1993) | Average Rating: 3.94
+MovieID: 812 | Movie Title: Andre (1994) | Average Rating: 3.11
+MovieID: 813 | Movie Title: Celluloid Closet, The (1995) | Average Rating: 3.89
+MovieID: 814 | Movie Title: Great Day in Harlem, A (1994) | Average Rating: 5.00
+MovieID: 815 | Movie Title: One Fine Day (1996) | Average Rating: 3.23
+MovieID: 816 | Movie Title: Candyman: Farewell to the Flesh (1995) | Average Rating: 2.43
+MovieID: 817 | Movie Title: Frisk (1995) | Average Rating: 2.67
+MovieID: 818 | Movie Title: Girl 6 (1996) | Average Rating: 2.76
+MovieID: 819 | Movie Title: Eddie (1996) | Average Rating: 2.70
+MovieID: 1253 | Movie Title: Tie That Binds, The (1995) | Average Rating: 2.43
+MovieID: 1252 | Movie Title: Contempt (M�pris, Le) (1963) | Average Rating: 3.00
+MovieID: 1251 | Movie Title: A Chef in Love (1996) | Average Rating: 4.13
+MovieID: 1250 | Movie Title: Best of the Best 3: No Turning Back (1995) | Average Rating: 1.50
+MovieID: 1249 | Movie Title: For Love or Money (1993) | Average Rating: 2.83
+MovieID: 1248 | Movie Title: Blink (1994) | Average Rating: 3.00
+MovieID: 1247 | Movie Title: Bad Girls (1994) | Average Rating: 1.83
+MovieID: 1246 | Movie Title: Bushwhacked (1995) | Average Rating: 1.57
+MovieID: 1245 | Movie Title: Gridlock'd (1997) | Average Rating: 3.21
+MovieID: 820 | Movie Title: Space Jam (1996) | Average Rating: 2.77
+MovieID: 1244 | Movie Title: Metro (1997) | Average Rating: 2.92
+MovieID: 821 | Movie Title: Mrs. Winterbourne (1996) | Average Rating: 3.05
+MovieID: 1243 | Movie Title: Night Flier (1997) | Average Rating: 3.71
+MovieID: 822 | Movie Title: Faces (1968) | Average Rating: 3.00
+MovieID: 823 | Movie Title: Mulholland Falls (1996) | Average Rating: 2.88
+MovieID: 824 | Movie Title: Great White Hype, The (1996) | Average Rating: 2.76
+MovieID: 825 | Movie Title: Arrival, The (1996) | Average Rating: 3.04
+MovieID: 826 | Movie Title: Phantom, The (1996) | Average Rating: 2.58
+MovieID: 827 | Movie Title: Daylight (1996) | Average Rating: 2.77
+MovieID: 828 | Movie Title: Alaska (1996) | Average Rating: 2.69
+MovieID: 829 | Movie Title: Fled (1996) | Average Rating: 2.65
+MovieID: 1264 | Movie Title: Nothing to Lose (1994) | Average Rating: 3.29
+MovieID: 1263 | Movie Title: Foxfire (1996) | Average Rating: 2.93
+MovieID: 1262 | Movie Title: Walking and Talking (1996) | Average Rating: 3.63
+MovieID: 1261 | Movie Title: Run of the Country, The (1995) | Average Rating: 3.25
+MovieID: 1260 | Movie Title: Total Eclipse (1995) | Average Rating: 2.75
+MovieID: 1259 | Movie Title: Pie in the Sky (1995) | Average Rating: 2.00
+MovieID: 1258 | Movie Title: Trial and Error (1997) | Average Rating: 2.52
+MovieID: 1257 | Movie Title: Designated Mourner, The (1997) | Average Rating: 1.75
+MovieID: 830 | Movie Title: Power 98 (1995) | Average Rating: 1.00
+MovieID: 1256 | Movie Title: Designated Mourner, The (1997) | Average Rating: 2.00
+MovieID: 831 | Movie Title: Escape from L.A. (1996) | Average Rating: 2.46
+MovieID: 1255 | Movie Title: Broken English (1996) | Average Rating: 2.25
+MovieID: 832 | Movie Title: Bogus (1996) | Average Rating: 2.55
+MovieID: 1254 | Movie Title: Gone Fishin' (1997) | Average Rating: 1.82
+MovieID: 833 | Movie Title: Bulletproof (1996) | Average Rating: 3.20
+MovieID: 834 | Movie Title: Halloween: The Curse of Michael Myers (1995) | Average Rating: 2.20
+MovieID: 835 | Movie Title: Gay Divorcee, The (1934) | Average Rating: 3.87
+MovieID: 836 | Movie Title: Ninotchka (1939) | Average Rating: 3.77
+MovieID: 837 | Movie Title: Meet John Doe (1941) | Average Rating: 3.92
+MovieID: 838 | Movie Title: In the Line of Duty 2 (1987) | Average Rating: 2.75
+MovieID: 839 | Movie Title: Loch Ness (1995) | Average Rating: 2.50
+MovieID: 1275 | Movie Title: Killer (Bulletproof Heart) (1994) | Average Rating: 2.50
+MovieID: 1274 | Movie Title: Robocop 3 (1993) | Average Rating: 1.73
+MovieID: 1273 | Movie Title: Color of Night (1994) | Average Rating: 2.73
+MovieID: 1272 | Movie Title: Talking About Sex (1994) | Average Rating: 1.80
+MovieID: 1271 | Movie Title: North (1994) | Average Rating: 2.71
+MovieID: 1270 | Movie Title: Life with Mikey (1993) | Average Rating: 2.29
+MovieID: 1269 | Movie Title: Love in the Afternoon (1957) | Average Rating: 3.90
+MovieID: 840 | Movie Title: Last Man Standing (1996) | Average Rating: 2.66
+MovieID: 1268 | Movie Title: Bitter Moon (1992) | Average Rating: 3.30
+MovieID: 1267 | Movie Title: Clockers (1995) | Average Rating: 3.00
+MovieID: 841 | Movie Title: Glimmer Man, The (1996) | Average Rating: 2.75
+MovieID: 842 | Movie Title: Pollyanna (1960) | Average Rating: 3.15
+MovieID: 1266 | Movie Title: Bread and Chocolate (Pane e cioccolata) (1973) | Average Rating: 3.17
+MovieID: 843 | Movie Title: Shaggy Dog, The (1959) | Average Rating: 3.00
+MovieID: 1265 | Movie Title: Star Maps (1997) | Average Rating: 3.05
+MovieID: 844 | Movie Title: Freeway (1996) | Average Rating: 3.36
+MovieID: 845 | Movie Title: That Thing You Do! (1996) | Average Rating: 3.47
+MovieID: 846 | Movie Title: To Gillian on Her 37th Birthday (1996) | Average Rating: 3.07
+MovieID: 847 | Movie Title: Looking for Richard (1996) | Average Rating: 3.73
+MovieID: 848 | Movie Title: Murder, My Sweet (1944) | Average Rating: 3.56
+MovieID: 849 | Movie Title: Days of Thunder (1990) | Average Rating: 2.72
+MovieID: 1286 | Movie Title: Shall We Dance? (1937) | Average Rating: 3.71
+MovieID: 1285 | Movie Title: Princess Caraboo (1994) | Average Rating: 3.13
+MovieID: 1284 | Movie Title: Before and After (1996) | Average Rating: 2.85
+MovieID: 1283 | Movie Title: Out to Sea (1997) | Average Rating: 2.68
+MovieID: 1282 | Movie Title: Grass Harp, The (1995) | Average Rating: 3.22
+MovieID: 1281 | Movie Title: Manny & Lo (1996) | Average Rating: 3.15
+MovieID: 1280 | Movie Title: Gang Related (1997) | Average Rating: 2.69
+MovieID: 850 | Movie Title: Perfect Candidate, A (1996) | Average Rating: 4.00
+MovieID: 1279 | Movie Title: Wild America (1997) | Average Rating: 2.89
+MovieID: 851 | Movie Title: Two or Three Things I Know About Her (1966) | Average Rating: 3.75
+MovieID: 1278 | Movie Title: Selena (1997) | Average Rating: 3.63
+MovieID: 852 | Movie Title: Bloody Child, The (1996) | Average Rating: 1.00
+MovieID: 853 | Movie Title: Braindead (1992) | Average Rating: 3.86
+MovieID: 1277 | Movie Title: Set It Off (1996) | Average Rating: 3.42
+MovieID: 1276 | Movie Title: Sunset Park (1996) | Average Rating: 2.50
+MovieID: 854 | Movie Title: Bad Taste (1987) | Average Rating: 3.38
+MovieID: 855 | Movie Title: Diva (1981) | Average Rating: 3.73
+MovieID: 856 | Movie Title: Night on Earth (1991) | Average Rating: 3.83
+MovieID: 857 | Movie Title: Paris Was a Woman (1995) | Average Rating: 3.00
+MovieID: 858 | Movie Title: Amityville: Dollhouse (1996) | Average Rating: 1.00
+MovieID: 859 | Movie Title: April Fool's Day (1986) | Average Rating: 2.67
+MovieID: 1297 | Movie Title: Love Affair (1994) | Average Rating: 2.83
+MovieID: 1296 | Movie Title: Indian Summer (1996) | Average Rating: 3.25
+MovieID: 1295 | Movie Title: Kicked in the Head (1997) | Average Rating: 2.57
+MovieID: 1294 | Movie Title: Ayn Rand: A Sense of Life (1997) | Average Rating: 3.14
+MovieID: 1293 | Movie Title: Star Kid (1997) | Average Rating: 5.00
+MovieID: 1292 | Movie Title: Simple Wish, A (1997) | Average Rating: 1.67
+MovieID: 1291 | Movie Title: Celtic Pride (1996) | Average Rating: 2.20
+MovieID: 1290 | Movie Title: Country Life (1994) | Average Rating: 1.50
+MovieID: 860 | Movie Title: Believers, The (1987) | Average Rating: 2.25
+MovieID: 861 | Movie Title: Nosferatu a Venezia (1986) | Average Rating: 2.33
+MovieID: 862 | Movie Title: Jingle All the Way (1996) | Average Rating: 2.11
+MovieID: 863 | Movie Title: Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970) | Average Rating: 3.92
+MovieID: 1289 | Movie Title: Jack and Sarah (1995) | Average Rating: 2.14
+MovieID: 864 | Movie Title: My Fellow Americans (1996) | Average Rating: 3.16
+MovieID: 1288 | Movie Title: Denise Calls Up (1995) | Average Rating: 3.00
+MovieID: 865 | Movie Title: Ice Storm, The (1997) | Average Rating: 3.48
+MovieID: 1287 | Movie Title: Ed (1996) | Average Rating: 1.33
+MovieID: 866 | Movie Title: Michael (1996) | Average Rating: 3.32
+MovieID: 867 | Movie Title: Whole Wide World, The (1996) | Average Rating: 4.00
+MovieID: 868 | Movie Title: Hearts and Minds (1996) | Average Rating: 3.80
+MovieID: 869 | Movie Title: Fools Rush In (1997) | Average Rating: 3.00
+MovieID: 870 | Movie Title: Touch (1997) | Average Rating: 2.78
+MovieID: 871 | Movie Title: Vegas Vacation (1997) | Average Rating: 2.40
+MovieID: 872 | Movie Title: Love Jones (1997) | Average Rating: 3.10
+MovieID: 873 | Movie Title: Picture Perfect (1997) | Average Rating: 2.96
+MovieID: 874 | Movie Title: Career Girls (1997) | Average Rating: 3.26
+MovieID: 875 | Movie Title: She's So Lovely (1997) | Average Rating: 2.74
+MovieID: 1299 | Movie Title: Penny Serenade (1941) | Average Rating: 3.00
+MovieID: 1298 | Movie Title: Band Wagon, The (1953) | Average Rating: 3.67
+MovieID: 876 | Movie Title: Money Talks (1997) | Average Rating: 2.70
+MovieID: 877 | Movie Title: Excess Baggage (1997) | Average Rating: 2.54
+MovieID: 878 | Movie Title: That Darn Cat! (1997) | Average Rating: 2.52
+MovieID: 879 | Movie Title: Peacemaker, The (1997) | Average Rating: 3.27
+MovieID: 880 | Movie Title: Soul Food (1997) | Average Rating: 3.17
+MovieID: 881 | Movie Title: Money Talks (1997) | Average Rating: 2.93
+MovieID: 882 | Movie Title: Washington Square (1997) | Average Rating: 3.29
+MovieID: 883 | Movie Title: Telling Lies in America (1997) | Average Rating: 3.23
+MovieID: 884 | Movie Title: Year of the Horse (1997) | Average Rating: 3.29
+MovieID: 400 | Movie Title: Little Rascals, The (1994) | Average Rating: 2.72
+MovieID: 401 | Movie Title: Brady Bunch Movie, The (1995) | Average Rating: 2.80
+MovieID: 885 | Movie Title: Phantoms (1998) | Average Rating: 2.23
+MovieID: 402 | Movie Title: Ghost (1990) | Average Rating: 3.46
+MovieID: 886 | Movie Title: Life Less Ordinary, A (1997) | Average Rating: 3.08
+MovieID: 403 | Movie Title: Batman (1989) | Average Rating: 3.43
+MovieID: 887 | Movie Title: Eve's Bayou (1997) | Average Rating: 3.61
+MovieID: 404 | Movie Title: Pinocchio (1940) | Average Rating: 3.67
+MovieID: 888 | Movie Title: One Night Stand (1997) | Average Rating: 3.47
+MovieID: 405 | Movie Title: Mission: Impossible (1996) | Average Rating: 3.31
+MovieID: 889 | Movie Title: Tango Lesson, The (1997) | Average Rating: 3.38
+MovieID: 406 | Movie Title: Thinner (1996) | Average Rating: 2.45
+MovieID: 407 | Movie Title: Spy Hard (1996) | Average Rating: 2.51
+MovieID: 408 | Movie Title: Close Shave, A (1995) | Average Rating: 4.49
+MovieID: 409 | Movie Title: Jack (1996) | Average Rating: 3.14
+MovieID: 890 | Movie Title: Mortal Kombat: Annihilation (1997) | Average Rating: 1.95
+MovieID: 891 | Movie Title: Bent (1997) | Average Rating: 2.67
+MovieID: 892 | Movie Title: Flubber (1997) | Average Rating: 2.75
+MovieID: 893 | Movie Title: For Richer or Poorer (1997) | Average Rating: 2.43
+MovieID: 410 | Movie Title: Kingpin (1996) | Average Rating: 3.13
+MovieID: 894 | Movie Title: Home Alone 3 (1997) | Average Rating: 1.89
+MovieID: 411 | Movie Title: Nutty Professor, The (1996) | Average Rating: 2.91
+MovieID: 895 | Movie Title: Scream 2 (1997) | Average Rating: 3.22
+MovieID: 412 | Movie Title: Very Brady Sequel, A (1996) | Average Rating: 2.40
+MovieID: 896 | Movie Title: Sweet Hereafter, The (1997) | Average Rating: 3.77
+MovieID: 413 | Movie Title: Tales from the Crypt Presents: Bordello of Blood (1996) | Average Rating: 2.64
+MovieID: 897 | Movie Title: Time Tracers (1995) | Average Rating: 1.50
+MovieID: 898 | Movie Title: Postman, The (1997) | Average Rating: 3.22
+MovieID: 414 | Movie Title: My Favorite Year (1982) | Average Rating: 3.53
+MovieID: 415 | Movie Title: Apple Dumpling Gang, The (1975) | Average Rating: 2.84
+MovieID: 899 | Movie Title: Winter Guest, The (1997) | Average Rating: 3.44
+MovieID: 416 | Movie Title: Old Yeller (1957) | Average Rating: 3.48
+MovieID: 417 | Movie Title: Parent Trap, The (1961) | Average Rating: 3.10
+MovieID: 418 | Movie Title: Cinderella (1950) | Average Rating: 3.58
+MovieID: 419 | Movie Title: Mary Poppins (1964) | Average Rating: 3.72
+MovieID: 420 | Movie Title: Alice in Wonderland (1951) | Average Rating: 3.67
+MovieID: 421 | Movie Title: William Shakespeare's Romeo and Juliet (1996) | Average Rating: 3.59
+MovieID: 422 | Movie Title: Aladdin and the King of Thieves (1996) | Average Rating: 2.85
+MovieID: 423 | Movie Title: E.T. the Extra-Terrestrial (1982) | Average Rating: 3.83
+MovieID: 424 | Movie Title: Children of the Corn: The Gathering (1996) | Average Rating: 1.32
+MovieID: 425 | Movie Title: Bob Roberts (1992) | Average Rating: 3.74
+MovieID: 426 | Movie Title: Transformers: The Movie, The (1986) | Average Rating: 2.84
+MovieID: 427 | Movie Title: To Kill a Mockingbird (1962) | Average Rating: 4.29
+MovieID: 428 | Movie Title: Harold and Maude (1971) | Average Rating: 3.82
+MovieID: 429 | Movie Title: Day the Earth Stood Still, The (1951) | Average Rating: 3.94
+MovieID: 430 | Movie Title: Duck Soup (1933) | Average Rating: 4.00
+MovieID: 431 | Movie Title: Highlander (1986) | Average Rating: 3.54
+MovieID: 432 | Movie Title: Fantasia (1940) | Average Rating: 3.77
+MovieID: 433 | Movie Title: Heathers (1989) | Average Rating: 3.69
+MovieID: 434 | Movie Title: Forbidden Planet (1956) | Average Rating: 3.84
+MovieID: 435 | Movie Title: Butch Cassidy and the Sundance Kid (1969) | Average Rating: 3.95
+MovieID: 436 | Movie Title: American Werewolf in London, An (1981) | Average Rating: 3.54
+MovieID: 437 | Movie Title: Amityville 1992: It's About Time (1992) | Average Rating: 1.00
+MovieID: 438 | Movie Title: Amityville 3-D (1983) | Average Rating: 1.17
+MovieID: 439 | Movie Title: Amityville: A New Generation (1993) | Average Rating: 1.00
+MovieID: 440 | Movie Title: Amityville II: The Possession (1982) | Average Rating: 1.64
+MovieID: 441 | Movie Title: Amityville Horror, The (1979) | Average Rating: 2.57
+MovieID: 442 | Movie Title: Amityville Curse, The (1990) | Average Rating: 1.25
+MovieID: 443 | Movie Title: Birds, The (1963) | Average Rating: 3.81
+MovieID: 444 | Movie Title: Blob, The (1958) | Average Rating: 2.72
+MovieID: 445 | Movie Title: Body Snatcher, The (1945) | Average Rating: 3.50
+MovieID: 446 | Movie Title: Burnt Offerings (1976) | Average Rating: 2.44
+MovieID: 447 | Movie Title: Carrie (1976) | Average Rating: 3.50
+MovieID: 448 | Movie Title: Omen, The (1976) | Average Rating: 3.39
+MovieID: 449 | Movie Title: Star Trek: The Motion Picture (1979) | Average Rating: 3.03
+MovieID: 450 | Movie Title: Star Trek V: The Final Frontier (1989) | Average Rating: 2.40
+MovieID: 451 | Movie Title: Grease (1978) | Average Rating: 3.35
+MovieID: 452 | Movie Title: Jaws 2 (1978) | Average Rating: 2.67
+MovieID: 453 | Movie Title: Jaws 3-D (1983) | Average Rating: 1.94
+MovieID: 454 | Movie Title: Bastard Out of Carolina (1996) | Average Rating: 2.88
+MovieID: 455 | Movie Title: Jackie Chan's First Strike (1996) | Average Rating: 3.26
+MovieID: 456 | Movie Title: Beverly Hills Ninja (1997) | Average Rating: 2.31
+MovieID: 457 | Movie Title: Free Willy 3: The Rescue (1997) | Average Rating: 1.74
+MovieID: 458 | Movie Title: Nixon (1995) | Average Rating: 3.12
+MovieID: 459 | Movie Title: Cry, the Beloved Country (1995) | Average Rating: 3.75
+MovieID: 460 | Movie Title: Crossing Guard, The (1995) | Average Rating: 3.00
+MovieID: 461 | Movie Title: Smoke (1995) | Average Rating: 3.62
+MovieID: 462 | Movie Title: Like Water For Chocolate (Como agua para chocolate) (1992) | Average Rating: 3.80
+MovieID: 463 | Movie Title: Secret of Roan Inish, The (1994) | Average Rating: 3.86
+MovieID: 464 | Movie Title: Vanya on 42nd Street (1994) | Average Rating: 3.59
+MovieID: 465 | Movie Title: Jungle Book, The (1994) | Average Rating: 3.56
+MovieID: 466 | Movie Title: Red Rock West (1992) | Average Rating: 3.60
+MovieID: 467 | Movie Title: Bronx Tale, A (1993) | Average Rating: 3.79
+MovieID: 468 | Movie Title: Rudy (1993) | Average Rating: 3.31
+MovieID: 469 | Movie Title: Short Cuts (1993) | Average Rating: 3.78
+MovieID: 470 | Movie Title: Tombstone (1993) | Average Rating: 3.67
+MovieID: 471 | Movie Title: Courage Under Fire (1996) | Average Rating: 3.61
+MovieID: 472 | Movie Title: Dragonheart (1996) | Average Rating: 3.08
+MovieID: 473 | Movie Title: James and the Giant Peach (1996) | Average Rating: 3.13
+MovieID: 474 | Movie Title: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963) | Average Rating: 4.25
+MovieID: 475 | Movie Title: Trainspotting (1996) | Average Rating: 3.88
+MovieID: 476 | Movie Title: First Wives Club, The (1996) | Average Rating: 3.02
+MovieID: 477 | Movie Title: Matilda (1996) | Average Rating: 3.21
+MovieID: 478 | Movie Title: Philadelphia Story, The (1940) | Average Rating: 4.12
+MovieID: 479 | Movie Title: Vertigo (1958) | Average Rating: 4.25
+MovieID: 480 | Movie Title: North by Northwest (1959) | Average Rating: 4.28
+MovieID: 481 | Movie Title: Apartment, The (1960) | Average Rating: 3.94
+MovieID: 482 | Movie Title: Some Like It Hot (1959) | Average Rating: 3.98
+MovieID: 483 | Movie Title: Casablanca (1942) | Average Rating: 4.46
+MovieID: 484 | Movie Title: Maltese Falcon, The (1941) | Average Rating: 4.21
+MovieID: 485 | Movie Title: My Fair Lady (1964) | Average Rating: 3.82
+MovieID: 486 | Movie Title: Sabrina (1954) | Average Rating: 3.80
+MovieID: 487 | Movie Title: Roman Holiday (1953) | Average Rating: 4.10
+MovieID: 488 | Movie Title: Sunset Blvd. (1950) | Average Rating: 4.20
+MovieID: 489 | Movie Title: Notorious (1946) | Average Rating: 4.12
+MovieID: 490 | Movie Title: To Catch a Thief (1955) | Average Rating: 4.02
+MovieID: 491 | Movie Title: Adventures of Robin Hood, The (1938) | Average Rating: 3.79
+MovieID: 492 | Movie Title: East of Eden (1955) | Average Rating: 3.86
+MovieID: 493 | Movie Title: Thin Man, The (1934) | Average Rating: 4.15
+MovieID: 494 | Movie Title: His Girl Friday (1940) | Average Rating: 4.00
+MovieID: 495 | Movie Title: Around the World in 80 Days (1956) | Average Rating: 3.66
+MovieID: 496 | Movie Title: It's a Wonderful Life (1946) | Average Rating: 4.12
+MovieID: 497 | Movie Title: Bringing Up Baby (1938) | Average Rating: 3.84
+MovieID: 498 | Movie Title: African Queen, The (1951) | Average Rating: 4.18
+MovieID: 499 | Movie Title: Cat on a Hot Tin Roof (1958) | Average Rating: 3.95
+MovieID: 1305 | Movie Title: National Lampoon's Senior Trip (1995) | Average Rating: 2.43
+MovieID: 1304 | Movie Title: New York Cop (1996) | Average Rating: 2.50
+MovieID: 1303 | Movie Title: Getaway, The (1994) | Average Rating: 2.33
+MovieID: 1302 | Movie Title: Late Bloomers (1996) | Average Rating: 3.40
+MovieID: 1301 | Movie Title: Stripes (1981) | Average Rating: 3.80
+MovieID: 1300 | Movie Title: 'Til There Was You (1997) | Average Rating: 2.33
+MovieID: 1309 | Movie Title: Very Natural Thing, A (1974) | Average Rating: 1.00
+MovieID: 1308 | Movie Title: Babyfever (1994) | Average Rating: 1.00
+MovieID: 1307 | Movie Title: Carmen Miranda: Bananas Is My Business (1994) | Average Rating: 1.50
+MovieID: 1306 | Movie Title: Delta of Venus (1994) | Average Rating: 3.00
+MovieID: 1316 | Movie Title: Horse Whisperer, The (1998) | Average Rating: 2.71
+MovieID: 1315 | Movie Title: Inventing the Abbotts (1997) | Average Rating: 3.13
+MovieID: 1314 | Movie Title: Surviving the Game (1994) | Average Rating: 2.45
+MovieID: 1313 | Movie Title: Palmetto (1998) | Average Rating: 3.14
+MovieID: 1312 | Movie Title: Pompatus of Love, The (1996) | Average Rating: 3.00
+MovieID: 1311 | Movie Title: Waiting to Exhale (1995) | Average Rating: 2.50
+MovieID: 1310 | Movie Title: Walk in the Sun, A (1945) | Average Rating: 3.00
+MovieID: 1319 | Movie Title: Neon Bible, The (1995) | Average Rating: 1.75
+MovieID: 1318 | Movie Title: Catwalk (1995) | Average Rating: 1.33
+MovieID: 1317 | Movie Title: Journey of August King, The (1995) | Average Rating: 2.00
+MovieID: 1330 | Movie Title: An Unforgettable Summer (1994) | Average Rating: 2.50
+MovieID: 1327 | Movie Title: Captives (1994) | Average Rating: 2.33
+MovieID: 1326 | Movie Title: Boys (1996) | Average Rating: 3.33
+MovieID: 1325 | Movie Title: August (1996) | Average Rating: 1.00
+MovieID: 1324 | Movie Title: Loaded (1994) | Average Rating: 2.40
+MovieID: 1323 | Movie Title: Wooden Man's Bride, The (Wu Kui) (1994) | Average Rating: 2.67
+MovieID: 1322 | Movie Title: Metisse (Caf� au Lait) (1993) | Average Rating: 2.33
+MovieID: 1321 | Movie Title: Open Season (1996) | Average Rating: 2.50
+MovieID: 1320 | Movie Title: Homage (1995) | Average Rating: 1.00
+MovieID: 900 | Movie Title: Kundun (1997) | Average Rating: 3.69
+MovieID: 901 | Movie Title: Mr. Magoo (1997) | Average Rating: 1.92
+MovieID: 902 | Movie Title: Big Lebowski, The (1998) | Average Rating: 3.83
+MovieID: 903 | Movie Title: Afterglow (1997) | Average Rating: 3.11
+MovieID: 904 | Movie Title: Ma vie en rose (My Life in Pink) (1997) | Average Rating: 3.45
+MovieID: 905 | Movie Title: Great Expectations (1998) | Average Rating: 3.22
+MovieID: 1329 | Movie Title: Low Life, The (1994) | Average Rating: 1.00
+MovieID: 906 | Movie Title: Oscar & Lucinda (1997) | Average Rating: 3.19
+MovieID: 1328 | Movie Title: Of Love and Shadows (1994) | Average Rating: 3.17
+MovieID: 907 | Movie Title: Vermin (1998) | Average Rating: 2.00
+MovieID: 908 | Movie Title: Half Baked (1998) | Average Rating: 2.50
+MovieID: 909 | Movie Title: Dangerous Beauty (1998) | Average Rating: 3.77
+MovieID: 1341 | Movie Title: Hedd Wyn (1992) | Average Rating: 1.00
+MovieID: 1340 | Movie Title: Crude Oasis, The (1995) | Average Rating: 1.00
+MovieID: 1338 | Movie Title: Two Deaths (1995) | Average Rating: 2.25
+MovieID: 1337 | Movie Title: Larger Than Life (1996) | Average Rating: 2.33
+MovieID: 1336 | Movie Title: Kazaam (1996) | Average Rating: 1.80
+MovieID: 1335 | Movie Title: American Buffalo (1996) | Average Rating: 2.64
+MovieID: 1334 | Movie Title: Somebody to Love (1994) | Average Rating: 1.00
+MovieID: 1333 | Movie Title: Midnight Dancers (Sibak) (1994) | Average Rating: 2.80
+MovieID: 1332 | Movie Title: My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993) | Average Rating: 2.00
+MovieID: 1331 | Movie Title: Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995) | Average Rating: 3.00
+MovieID: 910 | Movie Title: Nil By Mouth (1997) | Average Rating: 2.00
+MovieID: 911 | Movie Title: Twilight (1998) | Average Rating: 2.50
+MovieID: 912 | Movie Title: U.S. Marshalls (1998) | Average Rating: 3.00
+MovieID: 913 | Movie Title: Love and Death on Long Island (1997) | Average Rating: 2.50
+MovieID: 914 | Movie Title: Wild Things (1998) | Average Rating: 2.73
+MovieID: 915 | Movie Title: Primary Colors (1998) | Average Rating: 3.92
+MovieID: 916 | Movie Title: Lost in Space (1998) | Average Rating: 3.17
+MovieID: 1339 | Movie Title: Stefano Quantestorie (1993) | Average Rating: 1.00
+MovieID: 917 | Movie Title: Mercury Rising (1998) | Average Rating: 3.43
+MovieID: 918 | Movie Title: City of Angels (1998) | Average Rating: 3.00
+MovieID: 919 | Movie Title: City of Lost Children, The (1995) | Average Rating: 3.79
+MovieID: 1352 | Movie Title: Shadow of Angels (Schatten der Engel) (1976) | Average Rating: 1.00
+MovieID: 1351 | Movie Title: Lover's Knot (1996) | Average Rating: 2.00
+MovieID: 1350 | Movie Title: Crows and Sparrows (1949) | Average Rating: 1.50
+MovieID: 1349 | Movie Title: Mille bolle blu (1993) | Average Rating: 1.00
+MovieID: 1348 | Movie Title: Every Other Weekend (1990) | Average Rating: 1.00
+MovieID: 1347 | Movie Title: Ballad of Narayama, The (Narayama Bushiko) (1958) | Average Rating: 2.75
+MovieID: 1346 | Movie Title: Dingo (1992) | Average Rating: 2.40
+MovieID: 1345 | Movie Title: Day the Sun Turned Cold, The (Tianguo niezi) (1994) | Average Rating: 2.00
+MovieID: 1344 | Movie Title: Story of Xinghua, The (1993) | Average Rating: 3.20
+MovieID: 1343 | Movie Title: Lotto Land (1995) | Average Rating: 1.00
+MovieID: 1342 | Movie Title: Convent, The (Convento, O) (1995) | Average Rating: 2.50
+MovieID: 920 | Movie Title: Two Bits (1995) | Average Rating: 2.20
+MovieID: 921 | Movie Title: Farewell My Concubine (1993) | Average Rating: 3.98
+MovieID: 922 | Movie Title: Dead Man (1995) | Average Rating: 3.82
+MovieID: 923 | Movie Title: Raise the Red Lantern (1991) | Average Rating: 4.16
+MovieID: 924 | Movie Title: White Squall (1996) | Average Rating: 3.40
+MovieID: 925 | Movie Title: Unforgettable (1996) | Average Rating: 3.32
+MovieID: 926 | Movie Title: Down Periscope (1996) | Average Rating: 2.70
+MovieID: 927 | Movie Title: Flower of My Secret, The (Flor de mi secreto, La) (1995) | Average Rating: 3.17
+MovieID: 928 | Movie Title: Craft, The (1996) | Average Rating: 3.12
+MovieID: 929 | Movie Title: Harriet the Spy (1996) | Average Rating: 2.70
+MovieID: 1363 | Movie Title: Leopard Son, The (1996) | Average Rating: 1.00
+MovieID: 1362 | Movie Title: American Strays (1996) | Average Rating: 2.00
+MovieID: 1361 | Movie Title: Search for One-eye Jimmy, The (1996) | Average Rating: 2.67
+MovieID: 1360 | Movie Title: Sexual Life of the Belgians, The (1994) | Average Rating: 1.50
+MovieID: 1359 | Movie Title: Boys in Venice (1996) | Average Rating: 1.00
+MovieID: 1358 | Movie Title: The Deadly Cure (1996) | Average Rating: 3.00
+MovieID: 1357 | Movie Title: For the Moment (1994) | Average Rating: 2.67
+MovieID: 1356 | Movie Title: Ed's Next Move (1996) | Average Rating: 2.67
+MovieID: 1355 | Movie Title: Infinity (1996) | Average Rating: 2.67
+MovieID: 930 | Movie Title: Chain Reaction (1996) | Average Rating: 2.70
+MovieID: 1354 | Movie Title: Venice/Venice (1992) | Average Rating: 1.00
+MovieID: 931 | Movie Title: Island of Dr. Moreau, The (1996) | Average Rating: 2.16
+MovieID: 1353 | Movie Title: 1-900 (1994) | Average Rating: 2.60
+MovieID: 932 | Movie Title: First Kid (1996) | Average Rating: 2.92
+MovieID: 933 | Movie Title: Funeral, The (1996) | Average Rating: 2.43
+MovieID: 934 | Movie Title: Preacher's Wife, The (1996) | Average Rating: 2.93
+MovieID: 935 | Movie Title: Paradise Road (1997) | Average Rating: 3.29
+MovieID: 936 | Movie Title: Brassed Off (1996) | Average Rating: 3.94
+MovieID: 937 | Movie Title: Thousand Acres, A (1997) | Average Rating: 3.41
+MovieID: 938 | Movie Title: Smile Like Yours, A (1997) | Average Rating: 2.88
+MovieID: 939 | Movie Title: Murder in the First (1995) | Average Rating: 3.60
+MovieID: 1374 | Movie Title: Falling in Love Again (1980) | Average Rating: 1.00
+MovieID: 1373 | Movie Title: Good Morning (1971) | Average Rating: 1.00
+MovieID: 1372 | Movie Title: Stranger, The (1994) | Average Rating: 3.00
+MovieID: 1371 | Movie Title: Machine, The (1994) | Average Rating: 1.50
+MovieID: 1370 | Movie Title: I Can't Sleep (J'ai pas sommeil) (1994) | Average Rating: 2.67
+MovieID: 1369 | Movie Title: Forbidden Christ, The (Cristo proibito, Il) (1950) | Average Rating: 2.75
+MovieID: 1368 | Movie Title: Mina Tannenbaum (1994) | Average Rating: 3.67
+MovieID: 1367 | Movie Title: Faust (1994) | Average Rating: 4.20
+MovieID: 940 | Movie Title: Airheads (1994) | Average Rating: 2.34
+MovieID: 1366 | Movie Title: JLG/JLG - autoportrait de d�cembre (1994) | Average Rating: 1.00
+MovieID: 941 | Movie Title: With Honors (1994) | Average Rating: 3.07
+MovieID: 1365 | Movie Title: Johnny 100 Pesos (1993) | Average Rating: 1.50
+MovieID: 942 | Movie Title: What's Love Got to Do with It (1993) | Average Rating: 3.49
+MovieID: 1364 | Movie Title: Bird of Prey (1996) | Average Rating: 1.00
+MovieID: 943 | Movie Title: Killing Zoe (1994) | Average Rating: 3.47
+MovieID: 944 | Movie Title: Renaissance Man (1994) | Average Rating: 3.00
+MovieID: 945 | Movie Title: Charade (1963) | Average Rating: 3.92
+MovieID: 946 | Movie Title: Fox and the Hound, The (1981) | Average Rating: 3.15
+MovieID: 947 | Movie Title: Big Blue, The (Grand bleu, Le) (1988) | Average Rating: 3.24
+MovieID: 948 | Movie Title: Booty Call (1997) | Average Rating: 2.17
+MovieID: 949 | Movie Title: How to Make an American Quilt (1995) | Average Rating: 3.34
+MovieID: 1385 | Movie Title: Roseanna's Grave (For Roseanna) (1997) | Average Rating: 2.80
+MovieID: 1384 | Movie Title: Squeeze (1996) | Average Rating: 1.67
+MovieID: 1383 | Movie Title: Second Jungle Book: Mowgli & Baloo, The (1997) | Average Rating: 2.00
+MovieID: 1382 | Movie Title: Bonheur, Le (1965) | Average Rating: 2.00
+MovieID: 1381 | Movie Title: Losing Chase (1996) | Average Rating: 3.25
+MovieID: 1380 | Movie Title: Hollow Reed (1996) | Average Rating: 2.33
+MovieID: 1379 | Movie Title: Love and Other Catastrophes (1996) | Average Rating: 2.86
+MovieID: 950 | Movie Title: Georgia (1995) | Average Rating: 2.90
+MovieID: 1378 | Movie Title: Rhyme & Reason (1997) | Average Rating: 2.20
+MovieID: 951 | Movie Title: Indian in the Cupboard, The (1995) | Average Rating: 2.82
+MovieID: 1377 | Movie Title: Hotel de Love (1996) | Average Rating: 3.25
+MovieID: 1376 | Movie Title: Meet Wally Sparks (1997) | Average Rating: 2.14
+MovieID: 952 | Movie Title: Blue in the Face (1995) | Average Rating: 3.18
+MovieID: 953 | Movie Title: Unstrung Heroes (1995) | Average Rating: 3.32
+MovieID: 1375 | Movie Title: Cement Garden, The (1993) | Average Rating: 3.60
+MovieID: 954 | Movie Title: Unzipped (1995) | Average Rating: 3.55
+MovieID: 955 | Movie Title: Before Sunrise (1995) | Average Rating: 3.41
+MovieID: 956 | Movie Title: Nobody's Fool (1994) | Average Rating: 3.61
+MovieID: 957 | Movie Title: Pushing Hands (1992) | Average Rating: 2.00
+MovieID: 958 | Movie Title: To Live (Huozhe) (1994) | Average Rating: 3.79
+MovieID: 959 | Movie Title: Dazed and Confused (1993) | Average Rating: 3.47
+MovieID: 1396 | Movie Title: Stonewall (1995) | Average Rating: 4.20
+MovieID: 1395 | Movie Title: Hurricane Streets (1998) | Average Rating: 2.33
+MovieID: 1394 | Movie Title: Swept from the Sea (1997) | Average Rating: 2.43
+MovieID: 1393 | Movie Title: Stag (1997) | Average Rating: 2.11
+MovieID: 1392 | Movie Title: Locusts, The (1997) | Average Rating: 2.00
+MovieID: 1391 | Movie Title: For Ever Mozart (1996) | Average Rating: 2.00
+MovieID: 1390 | Movie Title: Innocent Sleep, The (1995) | Average Rating: 2.00
+MovieID: 960 | Movie Title: Naked (1993) | Average Rating: 3.24
+MovieID: 961 | Movie Title: Orlando (1993) | Average Rating: 3.62
+MovieID: 1389 | Movie Title: Mondo (1996) | Average Rating: 3.00
+MovieID: 962 | Movie Title: Ruby in Paradise (1993) | Average Rating: 3.13
+MovieID: 1388 | Movie Title: Gabbeh (1996) | Average Rating: 3.33
+MovieID: 963 | Movie Title: Some Folks Call It a Sling Blade (1993) | Average Rating: 4.29
+MovieID: 1387 | Movie Title: Fall (1997) | Average Rating: 2.00
+MovieID: 964 | Movie Title: Month by the Lake, A (1995) | Average Rating: 3.33
+MovieID: 1386 | Movie Title: Tetsuo II: Body Hammer (1992) | Average Rating: 2.67
+MovieID: 965 | Movie Title: Funny Face (1957) | Average Rating: 3.67
+MovieID: 966 | Movie Title: Affair to Remember, An (1957) | Average Rating: 4.19
+MovieID: 967 | Movie Title: Little Lord Fauntleroy (1936) | Average Rating: 3.17
+MovieID: 968 | Movie Title: Inspector General, The (1949) | Average Rating: 3.72
+MovieID: 969 | Movie Title: Winnie the Pooh and the Blustery Day (1968) | Average Rating: 3.80
+MovieID: 970 | Movie Title: Hear My Song (1991) | Average Rating: 3.25
+MovieID: 971 | Movie Title: Mediterraneo (1991) | Average Rating: 3.68
+MovieID: 972 | Movie Title: Passion Fish (1992) | Average Rating: 3.18
+MovieID: 1399 | Movie Title: Stranger in the House (1997) | Average Rating: 2.43
+MovieID: 973 | Movie Title: Grateful Dead (1995) | Average Rating: 3.50
+MovieID: 974 | Movie Title: Eye for an Eye (1996) | Average Rating: 3.03
+MovieID: 1398 | Movie Title: Anna (1996) | Average Rating: 4.50
+MovieID: 1397 | Movie Title: Of Human Bondage (1934) | Average Rating: 3.20
+MovieID: 975 | Movie Title: Fear (1996) | Average Rating: 3.16
+MovieID: 976 | Movie Title: Solo (1996) | Average Rating: 1.83
+MovieID: 977 | Movie Title: Substitute, The (1996) | Average Rating: 2.69
+MovieID: 978 | Movie Title: Heaven's Prisoners (1996) | Average Rating: 2.52
+MovieID: 979 | Movie Title: Trigger Effect, The (1996) | Average Rating: 3.20
+MovieID: 980 | Movie Title: Mother Night (1996) | Average Rating: 3.18
+MovieID: 981 | Movie Title: Dangerous Ground (1997) | Average Rating: 1.75
+MovieID: 982 | Movie Title: Maximum Risk (1996) | Average Rating: 2.80
+MovieID: 983 | Movie Title: Rich Man's Wife, The (1996) | Average Rating: 2.40
+MovieID: 984 | Movie Title: Shadow Conspiracy (1997) | Average Rating: 2.86
+MovieID: 500 | Movie Title: Fly Away Home (1996) | Average Rating: 3.90
+MovieID: 501 | Movie Title: Dumbo (1941) | Average Rating: 3.50
+MovieID: 985 | Movie Title: Blood & Wine (1997) | Average Rating: 2.86
+MovieID: 502 | Movie Title: Bananas (1971) | Average Rating: 3.70
+MovieID: 986 | Movie Title: Turbulence (1997) | Average Rating: 2.57
+MovieID: 503 | Movie Title: Candidate, The (1972) | Average Rating: 3.64
+MovieID: 987 | Movie Title: Underworld (1997) | Average Rating: 2.50
+MovieID: 504 | Movie Title: Bonnie and Clyde (1967) | Average Rating: 3.82
+MovieID: 988 | Movie Title: Beautician and the Beast, The (1997) | Average Rating: 2.31
+MovieID: 505 | Movie Title: Dial M for Murder (1954) | Average Rating: 4.00
+MovieID: 989 | Movie Title: Cats Don't Dance (1997) | Average Rating: 2.84
+MovieID: 506 | Movie Title: Rebel Without a Cause (1955) | Average Rating: 3.86
+MovieID: 507 | Movie Title: Streetcar Named Desire, A (1951) | Average Rating: 3.82
+MovieID: 508 | Movie Title: People vs. Larry Flynt, The (1996) | Average Rating: 3.60
+MovieID: 509 | Movie Title: My Left Foot (1989) | Average Rating: 3.85
+MovieID: 990 | Movie Title: Anna Karenina (1997) | Average Rating: 3.09
+MovieID: 991 | Movie Title: Keys to Tulsa (1997) | Average Rating: 2.24
+MovieID: 992 | Movie Title: Head Above Water (1996) | Average Rating: 3.00
+MovieID: 993 | Movie Title: Hercules (1997) | Average Rating: 3.52
+MovieID: 510 | Movie Title: Magnificent Seven, The (1954) | Average Rating: 3.94
+MovieID: 994 | Movie Title: Last Time I Committed Suicide, The (1997) | Average Rating: 2.29
+MovieID: 511 | Movie Title: Lawrence of Arabia (1962) | Average Rating: 4.23
+MovieID: 995 | Movie Title: Kiss Me, Guido (1997) | Average Rating: 3.16
+MovieID: 512 | Movie Title: Wings of Desire (1987) | Average Rating: 4.00
+MovieID: 996 | Movie Title: Big Green, The (1995) | Average Rating: 2.50
+MovieID: 513 | Movie Title: Third Man, The (1949) | Average Rating: 4.33
+MovieID: 997 | Movie Title: Stuart Saves His Family (1995) | Average Rating: 2.13
+MovieID: 514 | Movie Title: Annie Hall (1977) | Average Rating: 3.91
+MovieID: 998 | Movie Title: Cabin Boy (1994) | Average Rating: 2.56
+MovieID: 515 | Movie Title: Boot, Das (1981) | Average Rating: 4.20
+MovieID: 999 | Movie Title: Clean Slate (1994) | Average Rating: 2.80
+MovieID: 516 | Movie Title: Local Hero (1983) | Average Rating: 3.97
+MovieID: 517 | Movie Title: Manhattan (1979) | Average Rating: 3.77
+MovieID: 518 | Movie Title: Miller's Crossing (1990) | Average Rating: 3.65
+MovieID: 519 | Movie Title: Treasure of the Sierra Madre, The (1948) | Average Rating: 4.10
+MovieID: 520 | Movie Title: Great Escape, The (1963) | Average Rating: 4.10
+MovieID: 521 | Movie Title: Deer Hunter, The (1978) | Average Rating: 3.83
+MovieID: 522 | Movie Title: Down by Law (1986) | Average Rating: 3.77
+MovieID: 523 | Movie Title: Cool Hand Luke (1967) | Average Rating: 3.99
+MovieID: 524 | Movie Title: Great Dictator, The (1940) | Average Rating: 4.02
+MovieID: 525 | Movie Title: Big Sleep, The (1946) | Average Rating: 4.03
+MovieID: 526 | Movie Title: Ben-Hur (1959) | Average Rating: 3.83
+MovieID: 527 | Movie Title: Gandhi (1982) | Average Rating: 4.02
+MovieID: 528 | Movie Title: Killing Fields, The (1984) | Average Rating: 4.13
+MovieID: 529 | Movie Title: My Life as a Dog (Mitt liv som hund) (1985) | Average Rating: 3.98
+MovieID: 530 | Movie Title: Man Who Would Be King, The (1975) | Average Rating: 4.03
+MovieID: 531 | Movie Title: Shine (1996) | Average Rating: 3.92
+MovieID: 532 | Movie Title: Kama Sutra: A Tale of Love (1996) | Average Rating: 3.32
+MovieID: 533 | Movie Title: Daytrippers, The (1996) | Average Rating: 3.67
+MovieID: 534 | Movie Title: Traveller (1997) | Average Rating: 3.31
+MovieID: 535 | Movie Title: Addicted to Love (1997) | Average Rating: 3.17
+MovieID: 536 | Movie Title: Ponette (1996) | Average Rating: 3.30
+MovieID: 537 | Movie Title: My Own Private Idaho (1991) | Average Rating: 3.63
+MovieID: 538 | Movie Title: Anastasia (1997) | Average Rating: 3.42
+MovieID: 539 | Movie Title: Mouse Hunt (1997) | Average Rating: 2.48
+MovieID: 540 | Movie Title: Money Train (1995) | Average Rating: 2.51
+MovieID: 541 | Movie Title: Mortal Kombat (1995) | Average Rating: 2.88
+MovieID: 542 | Movie Title: Pocahontas (1995) | Average Rating: 2.53
+MovieID: 543 | Movie Title: Mis�rables, Les (1995) | Average Rating: 3.62
+MovieID: 544 | Movie Title: Things to Do in Denver when You're Dead (1995) | Average Rating: 3.15
+MovieID: 545 | Movie Title: Vampire in Brooklyn (1995) | Average Rating: 1.83
+MovieID: 546 | Movie Title: Broken Arrow (1996) | Average Rating: 3.03
+MovieID: 547 | Movie Title: Young Poisoner's Handbook, The (1995) | Average Rating: 3.34
+MovieID: 548 | Movie Title: NeverEnding Story III, The (1994) | Average Rating: 2.17
+MovieID: 549 | Movie Title: Rob Roy (1995) | Average Rating: 3.57
+MovieID: 550 | Movie Title: Die Hard: With a Vengeance (1995) | Average Rating: 3.28
+MovieID: 551 | Movie Title: Lord of Illusions (1995) | Average Rating: 2.42
+MovieID: 552 | Movie Title: Species (1995) | Average Rating: 2.87
+MovieID: 553 | Movie Title: Walk in the Clouds, A (1995) | Average Rating: 3.29
+MovieID: 554 | Movie Title: Waterworld (1995) | Average Rating: 2.80
+MovieID: 555 | Movie Title: White Man's Burden (1995) | Average Rating: 2.00
+MovieID: 556 | Movie Title: Wild Bill (1995) | Average Rating: 2.50
+MovieID: 557 | Movie Title: Farinelli: il castrato (1994) | Average Rating: 3.12
+MovieID: 558 | Movie Title: Heavenly Creatures (1994) | Average Rating: 3.67
+MovieID: 559 | Movie Title: Interview with the Vampire (1994) | Average Rating: 3.18
+MovieID: 560 | Movie Title: Kid in King Arthur's Court, A (1995) | Average Rating: 2.73
+MovieID: 561 | Movie Title: Mary Shelley's Frankenstein (1994) | Average Rating: 3.07
+MovieID: 562 | Movie Title: Quick and the Dead, The (1995) | Average Rating: 3.21
+MovieID: 563 | Movie Title: Stephen King's The Langoliers (1995) | Average Rating: 2.41
+MovieID: 564 | Movie Title: Tales from the Hood (1995) | Average Rating: 2.04
+MovieID: 565 | Movie Title: Village of the Damned (1995) | Average Rating: 2.68
+MovieID: 566 | Movie Title: Clear and Present Danger (1994) | Average Rating: 3.57
+MovieID: 567 | Movie Title: Wes Craven's New Nightmare (1994) | Average Rating: 2.80
+MovieID: 568 | Movie Title: Speed (1994) | Average Rating: 3.65
+MovieID: 569 | Movie Title: Wolf (1994) | Average Rating: 2.70
+MovieID: 570 | Movie Title: Wyatt Earp (1994) | Average Rating: 3.10
+MovieID: 571 | Movie Title: Another Stakeout (1993) | Average Rating: 2.50
+MovieID: 572 | Movie Title: Blown Away (1994) | Average Rating: 2.76
+MovieID: 573 | Movie Title: Body Snatchers (1993) | Average Rating: 2.94
+MovieID: 574 | Movie Title: Boxing Helena (1993) | Average Rating: 2.20
+MovieID: 575 | Movie Title: City Slickers II: The Legend of Curly's Gold (1994) | Average Rating: 2.55
+MovieID: 576 | Movie Title: Cliffhanger (1993) | Average Rating: 3.02
+MovieID: 577 | Movie Title: Coneheads (1993) | Average Rating: 2.22
+MovieID: 578 | Movie Title: Demolition Man (1993) | Average Rating: 3.15
+MovieID: 579 | Movie Title: Fatal Instinct (1993) | Average Rating: 2.63
+MovieID: 580 | Movie Title: Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995) | Average Rating: 3.38
+MovieID: 581 | Movie Title: Kalifornia (1993) | Average Rating: 3.22
+MovieID: 582 | Movie Title: Piano, The (1993) | Average Rating: 3.60
+MovieID: 583 | Movie Title: Romeo Is Bleeding (1993) | Average Rating: 3.00
+MovieID: 100 | Movie Title: Fargo (1996) | Average Rating: 4.16
+MovieID: 584 | Movie Title: Secret Garden, The (1993) | Average Rating: 3.54
+MovieID: 585 | Movie Title: Son in Law (1993) | Average Rating: 2.49
+MovieID: 101 | Movie Title: Heavy Metal (1981) | Average Rating: 3.26
+MovieID: 586 | Movie Title: Terminal Velocity (1994) | Average Rating: 2.68
+MovieID: 102 | Movie Title: Aristocats, The (1970) | Average Rating: 3.13
+MovieID: 587 | Movie Title: Hour of the Pig, The (1993) | Average Rating: 3.57
+MovieID: 103 | Movie Title: All Dogs Go to Heaven 2 (1996) | Average Rating: 1.87
+MovieID: 588 | Movie Title: Beauty and the Beast (1991) | Average Rating: 3.79
+MovieID: 104 | Movie Title: Theodore Rex (1995) | Average Rating: 1.40
+MovieID: 589 | Movie Title: Wild Bunch, The (1969) | Average Rating: 4.02
+MovieID: 105 | Movie Title: Sgt. Bilko (1996) | Average Rating: 2.57
+MovieID: 106 | Movie Title: Diabolique (1996) | Average Rating: 2.89
+MovieID: 107 | Movie Title: Moll Flanders (1996) | Average Rating: 3.50
+MovieID: 108 | Movie Title: Kids in the Hall: Brain Candy (1996) | Average Rating: 3.08
+MovieID: 109 | Movie Title: Mystery Science Theater 3000: The Movie (1996) | Average Rating: 3.43
+MovieID: 590 | Movie Title: Hellraiser: Bloodline (1996) | Average Rating: 2.00
+MovieID: 591 | Movie Title: Primal Fear (1996) | Average Rating: 3.60
+MovieID: 592 | Movie Title: True Crime (1995) | Average Rating: 3.33
+MovieID: 593 | Movie Title: Stalingrad (1993) | Average Rating: 3.17
+MovieID: 110 | Movie Title: Operation Dumbo Drop (1995) | Average Rating: 2.52
+MovieID: 594 | Movie Title: Heavy (1995) | Average Rating: 2.40
+MovieID: 111 | Movie Title: Truth About Cats & Dogs, The (1996) | Average Rating: 3.49
+MovieID: 595 | Movie Title: Fan, The (1996) | Average Rating: 3.09
+MovieID: 596 | Movie Title: Hunchback of Notre Dame, The (1996) | Average Rating: 3.38
+MovieID: 112 | Movie Title: Flipper (1996) | Average Rating: 2.45
+MovieID: 597 | Movie Title: Eraser (1996) | Average Rating: 3.15
+MovieID: 113 | Movie Title: Horseman on the Roof, The (Hussard sur le toit, Le) (1995) | Average Rating: 4.11
+MovieID: 114 | Movie Title: Wallace & Gromit: The Best of Aardman Animation (1996) | Average Rating: 4.45
+MovieID: 598 | Movie Title: Big Squeeze, The (1996) | Average Rating: 2.25
+MovieID: 115 | Movie Title: Haunted World of Edward D. Wood Jr., The (1995) | Average Rating: 3.73
+MovieID: 599 | Movie Title: Police Story 4: Project S (Chao ji ji hua) (1993) | Average Rating: 1.00
+MovieID: 116 | Movie Title: Cold Comfort Farm (1995) | Average Rating: 3.82
+MovieID: 117 | Movie Title: Rock, The (1996) | Average Rating: 3.69
+MovieID: 118 | Movie Title: Twister (1996) | Average Rating: 3.22
+MovieID: 119 | Movie Title: Maya Lin: A Strong Clear Vision (1994) | Average Rating: 4.50
+MovieID: 120 | Movie Title: Striptease (1996) | Average Rating: 2.24
+MovieID: 121 | Movie Title: Independence Day (ID4) (1996) | Average Rating: 3.44
+MovieID: 122 | Movie Title: Cable Guy, The (1996) | Average Rating: 2.34
+MovieID: 123 | Movie Title: Frighteners, The (1996) | Average Rating: 3.23
+MovieID: 124 | Movie Title: Lone Star (1996) | Average Rating: 4.05
+MovieID: 125 | Movie Title: Phenomenon (1996) | Average Rating: 3.56
+MovieID: 126 | Movie Title: Spitfire Grill, The (1996) | Average Rating: 3.80
+MovieID: 127 | Movie Title: Godfather, The (1972) | Average Rating: 4.28
+MovieID: 128 | Movie Title: Supercop (1992) | Average Rating: 3.54
+MovieID: 129 | Movie Title: Bound (1996) | Average Rating: 3.82
+MovieID: 130 | Movie Title: Kansas City (1996) | Average Rating: 2.26
+MovieID: 131 | Movie Title: Breakfast at Tiffany's (1961) | Average Rating: 3.73
+MovieID: 132 | Movie Title: Wizard of Oz, The (1939) | Average Rating: 4.08
+MovieID: 133 | Movie Title: Gone with the Wind (1939) | Average Rating: 3.87
+MovieID: 134 | Movie Title: Citizen Kane (1941) | Average Rating: 4.29
+MovieID: 135 | Movie Title: 2001: A Space Odyssey (1968) | Average Rating: 3.97
+MovieID: 136 | Movie Title: Mr. Smith Goes to Washington (1939) | Average Rating: 4.12
+MovieID: 137 | Movie Title: Big Night (1996) | Average Rating: 3.90
+MovieID: 138 | Movie Title: D3: The Mighty Ducks (1996) | Average Rating: 2.58
+MovieID: 139 | Movie Title: Love Bug, The (1969) | Average Rating: 2.78
+MovieID: 140 | Movie Title: Homeward Bound: The Incredible Journey (1993) | Average Rating: 3.21
+MovieID: 141 | Movie Title: 20,000 Leagues Under the Sea (1954) | Average Rating: 3.50
+MovieID: 142 | Movie Title: Bedknobs and Broomsticks (1971) | Average Rating: 3.07
+MovieID: 143 | Movie Title: Sound of Music, The (1965) | Average Rating: 3.77
+MovieID: 144 | Movie Title: Die Hard (1988) | Average Rating: 3.87
+MovieID: 145 | Movie Title: Lawnmower Man, The (1992) | Average Rating: 2.45
+MovieID: 146 | Movie Title: Unhook the Stars (1996) | Average Rating: 2.50
+MovieID: 147 | Movie Title: Long Kiss Goodnight, The (1996) | Average Rating: 3.47
+MovieID: 148 | Movie Title: Ghost and the Darkness, The (1996) | Average Rating: 3.20
+MovieID: 149 | Movie Title: Jude (1996) | Average Rating: 3.00
+MovieID: 150 | Movie Title: Swingers (1996) | Average Rating: 3.83
+MovieID: 151 | Movie Title: Willy Wonka and the Chocolate Factory (1971) | Average Rating: 3.63
+MovieID: 152 | Movie Title: Sleeper (1973) | Average Rating: 3.63
+MovieID: 153 | Movie Title: Fish Called Wanda, A (1988) | Average Rating: 3.79
+MovieID: 154 | Movie Title: Monty Python's Life of Brian (1979) | Average Rating: 3.75
+MovieID: 155 | Movie Title: Dirty Dancing (1987) | Average Rating: 3.10
+MovieID: 156 | Movie Title: Reservoir Dogs (1992) | Average Rating: 3.99
+MovieID: 157 | Movie Title: Platoon (1986) | Average Rating: 3.69
+MovieID: 158 | Movie Title: Weekend at Bernie's (1989) | Average Rating: 2.62
+MovieID: 159 | Movie Title: Basic Instinct (1992) | Average Rating: 3.23
+MovieID: 160 | Movie Title: Glengarry Glen Ross (1992) | Average Rating: 3.46
+MovieID: 161 | Movie Title: Top Gun (1986) | Average Rating: 3.48
+MovieID: 162 | Movie Title: On Golden Pond (1981) | Average Rating: 3.56
+MovieID: 163 | Movie Title: Return of the Pink Panther, The (1974) | Average Rating: 3.55
+MovieID: 164 | Movie Title: Abyss, The (1989) | Average Rating: 3.59
+MovieID: 165 | Movie Title: Jean de Florette (1986) | Average Rating: 4.11
+MovieID: 166 | Movie Title: Manon of the Spring (Manon des sources) (1986) | Average Rating: 4.12
+MovieID: 167 | Movie Title: Private Benjamin (1980) | Average Rating: 2.96
+MovieID: 168 | Movie Title: Monty Python and the Holy Grail (1974) | Average Rating: 4.07
+MovieID: 169 | Movie Title: Wrong Trousers, The (1993) | Average Rating: 4.47
+MovieID: 170 | Movie Title: Cinema Paradiso (1988) | Average Rating: 4.17
+MovieID: 171 | Movie Title: Delicatessen (1991) | Average Rating: 3.88
+MovieID: 172 | Movie Title: Empire Strikes Back, The (1980) | Average Rating: 4.20
+MovieID: 173 | Movie Title: Princess Bride, The (1987) | Average Rating: 4.17
+MovieID: 174 | Movie Title: Raiders of the Lost Ark (1981) | Average Rating: 4.25
+MovieID: 175 | Movie Title: Brazil (1985) | Average Rating: 3.82
+MovieID: 176 | Movie Title: Aliens (1986) | Average Rating: 3.95
+MovieID: 177 | Movie Title: Good, The Bad and The Ugly, The (1966) | Average Rating: 3.86
+MovieID: 178 | Movie Title: 12 Angry Men (1957) | Average Rating: 4.34
+MovieID: 179 | Movie Title: Clockwork Orange, A (1971) | Average Rating: 3.91
+MovieID: 180 | Movie Title: Apocalypse Now (1979) | Average Rating: 4.05
+MovieID: 181 | Movie Title: Return of the Jedi (1983) | Average Rating: 4.01
+MovieID: 182 | Movie Title: GoodFellas (1990) | Average Rating: 3.95
+MovieID: 183 | Movie Title: Alien (1979) | Average Rating: 4.03
+MovieID: 184 | Movie Title: Army of Darkness (1993) | Average Rating: 3.43
+MovieID: 185 | Movie Title: Psycho (1960) | Average Rating: 4.10
+MovieID: 186 | Movie Title: Blues Brothers, The (1980) | Average Rating: 3.84
+MovieID: 187 | Movie Title: Godfather: Part II, The (1974) | Average Rating: 4.19
+MovieID: 188 | Movie Title: Full Metal Jacket (1987) | Average Rating: 3.68
+MovieID: 189 | Movie Title: Grand Day Out, A (1992) | Average Rating: 4.11
+MovieID: 190 | Movie Title: Henry V (1989) | Average Rating: 4.14
+MovieID: 191 | Movie Title: Amadeus (1984) | Average Rating: 4.16
+MovieID: 192 | Movie Title: Raging Bull (1980) | Average Rating: 4.12
+MovieID: 193 | Movie Title: Right Stuff, The (1983) | Average Rating: 3.92
+MovieID: 194 | Movie Title: Sting, The (1973) | Average Rating: 4.06
+MovieID: 195 | Movie Title: Terminator, The (1984) | Average Rating: 3.93
+MovieID: 196 | Movie Title: Dead Poets Society (1989) | Average Rating: 3.92
+MovieID: 197 | Movie Title: Graduate, The (1967) | Average Rating: 4.10
+MovieID: 198 | Movie Title: Nikita (La Femme Nikita) (1990) | Average Rating: 4.01
+MovieID: 199 | Movie Title: Bridge on the River Kwai, The (1957) | Average Rating: 4.18
+MovieID: 1404 | Movie Title: Withnail and I (1987) | Average Rating: 3.23
+MovieID: 1403 | Movie Title: Caro Diario (Dear Diary) (1994) | Average Rating: 2.75
+MovieID: 1402 | Movie Title: Ciao, Professore! (1993) | Average Rating: 2.75
+MovieID: 1401 | Movie Title: M. Butterfly (1993) | Average Rating: 3.22
+MovieID: 1400 | Movie Title: Picture Bride (1995) | Average Rating: 3.10
+MovieID: 1409 | Movie Title: Swan Princess, The (1994) | Average Rating: 2.86
+MovieID: 1408 | Movie Title: Gordy (1995) | Average Rating: 1.00
+MovieID: 1407 | Movie Title: Specialist, The (1994) | Average Rating: 2.25
+MovieID: 1406 | Movie Title: When Night Is Falling (1995) | Average Rating: 3.40
+MovieID: 1405 | Movie Title: Boy's Life 2 (1997) | Average Rating: 3.33
+MovieID: 1415 | Movie Title: Next Karate Kid, The (1994) | Average Rating: 2.44
+MovieID: 1414 | Movie Title: Coldblooded (1995) | Average Rating: 2.00
+MovieID: 1413 | Movie Title: Street Fighter (1994) | Average Rating: 2.75
+MovieID: 1412 | Movie Title: Land Before Time III: The Time of the Great Giving (1995) (V) | Average Rating: 1.67
+MovieID: 1411 | Movie Title: Barbarella (1968) | Average Rating: 2.57
+MovieID: 1410 | Movie Title: Harlem (1993) | Average Rating: 2.75
+MovieID: 1419 | Movie Title: Highlander III: The Sorcerer (1994) | Average Rating: 2.13
+MovieID: 1418 | Movie Title: Joy Luck Club, The (1993) | Average Rating: 3.67
+MovieID: 1417 | Movie Title: Turning, The (1992) | Average Rating: 2.50
+MovieID: 1416 | Movie Title: No Escape (1994) | Average Rating: 2.40
+MovieID: 1426 | Movie Title: Grace of My Heart (1996) | Average Rating: 3.25
+MovieID: 1425 | Movie Title: I'll Do Anything (1994) | Average Rating: 2.60
+MovieID: 1424 | Movie Title: I Like It Like That (1994) | Average Rating: 2.33
+MovieID: 1423 | Movie Title: Walking Dead, The (1995) | Average Rating: 2.25
+MovieID: 1422 | Movie Title: Suture (1993) | Average Rating: 2.25
+MovieID: 1421 | Movie Title: My Crazy Life (Mi vida loca) (1993) | Average Rating: 3.18
+MovieID: 1420 | Movie Title: Gilligan's Island: The Movie (1998) | Average Rating: 1.33
+MovieID: 1429 | Movie Title: Sliding Doors (1998) | Average Rating: 2.75
+MovieID: 1428 | Movie Title: SubUrbia (1997) | Average Rating: 3.67
+MovieID: 1427 | Movie Title: Drunks (1995) | Average Rating: 2.80
+MovieID: 1440 | Movie Title: Above the Rim (1994) | Average Rating: 3.00
+MovieID: 1437 | Movie Title: House Party 3 (1994) | Average Rating: 2.00
+MovieID: 1436 | Movie Title: Mr. Jones (1993) | Average Rating: 2.50
+MovieID: 1435 | Movie Title: Steal Big, Steal Little (1995) | Average Rating: 2.57
+MovieID: 1434 | Movie Title: Shooting Fish (1997) | Average Rating: 2.50
+MovieID: 1433 | Movie Title: Men of Means (1998) | Average Rating: 2.00
+MovieID: 1432 | Movie Title: Mighty, The (1998) | Average Rating: 1.00
+MovieID: 1431 | Movie Title: Legal Deceit (1997) | Average Rating: 3.40
+MovieID: 1430 | Movie Title: Ill Gotten Gains (1997) | Average Rating: 2.33
+MovieID: 1439 | Movie Title: Jason's Lyric (1994) | Average Rating: 3.00
+MovieID: 1438 | Movie Title: Panther (1995) | Average Rating: 2.40
+MovieID: 1451 | Movie Title: Foreign Correspondent (1940) | Average Rating: 3.87
+MovieID: 1450 | Movie Title: Golden Earrings (1947) | Average Rating: 4.00
+MovieID: 1448 | Movie Title: My Favorite Season (1993) | Average Rating: 3.67
+MovieID: 1447 | Movie Title: Century (1993) | Average Rating: 3.00
+MovieID: 1446 | Movie Title: Bye Bye, Love (1995) | Average Rating: 3.13
+MovieID: 1445 | Movie Title: Ladybird Ladybird (1994) | Average Rating: 2.75
+MovieID: 1444 | Movie Title: That Darn Cat! (1965) | Average Rating: 2.47
+MovieID: 1443 | Movie Title: 8 Seconds (1994) | Average Rating: 3.75
+MovieID: 1442 | Movie Title: Scarlet Letter, The (1995) | Average Rating: 2.40
+MovieID: 1441 | Movie Title: Moonlight and Valentino (1995) | Average Rating: 2.57
+MovieID: 1449 | Movie Title: Pather Panchali (1955) | Average Rating: 4.63
