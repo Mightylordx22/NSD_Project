@@ -1,5 +1,8 @@
 package uk.mightylordx.project.movies;
 
+import uk.mightylordx.project.ratings.Rating;
+
+import java.util.ArrayList;
 import java.util.List;
 
 public class Movie {
@@ -9,6 +12,7 @@ public class Movie {
     private final String releaseDate;
     private final String urlLink;
     private final List<String> genres;
+    private final List<Rating> ratings;
 
     public Movie(String movieID, String title, List<String> genres, String releaseDate, String urlLink) {
         this.movieID = movieID;
@@ -16,6 +20,7 @@ public class Movie {
         this.releaseDate = releaseDate;
         this.urlLink = urlLink;
         this.genres = genres;
+        this.ratings = new ArrayList<>();
     }
 
     private String getMovieID() {
@@ -36,6 +41,14 @@ public class Movie {
 
     public List<String> getGenreList() {
         return this.genres;
+    }
+
+    public List<Rating> getRatings() {
+        return this.ratings;
+    }
+
+    public void addRating(Rating r) {
+        this.ratings.add(r);
     }
 
 }

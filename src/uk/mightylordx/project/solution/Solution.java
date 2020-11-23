@@ -16,39 +16,25 @@ public class Solution {
     private final String[] availableGenres = new String[]{"Action", "Adventure", "Animation", "Children's", "Comedy", "Crime", "Documentary", "Drama", "Fantasy", "Film-Noir", "Horror", "Musical", "Mystery", "Romance", "Sci-Fi", "Thriller", "War", "Western"};
 
     private final HashMap<String, User> userList;
-    private final HashMap<String, List<Rating>> userRatingList;
-    private final HashMap<String, List<Rating>> movieRatingList;
     private final HashMap<String, Movie> movieList;
 
     public Solution() {
-        this.userRatingList = new HashMap<>();
-        this.movieRatingList = new HashMap<>();
         this.userList = new HashMap<>();
         this.movieList = new HashMap<>();
     }
 
-    private void populateRatingsList() {
+    private void addRatings() {
         try {
             File f = new File("data\\ratings.dat");
             Scanner s = new Scanner(f);
             while (s.hasNextLine()) {
                 List<String> temp = new ArrayList<>(Arrays.asList(s.nextLine().strip().split("\t")));
-                this.userRatingList.put(temp.get(0), new ArrayList<>());
-                this.movieRatingList.put(temp.get(1), new ArrayList<>());
-            }
-            s = new Scanner(f);
-            while (s.hasNextLine()) {
-                List<String> temp = new ArrayList<>(Arrays.asList(s.nextLine().strip().split("\t")));
                 Rating r = new Rating(temp.get(0), temp.get(1), Integer.parseInt(temp.get(2)), Long.parseLong(temp.get(3)));
-                List<Rating> uData = this.userRatingList.get(r.getUserID());
-                List<Rating> mData = this.movieRatingList.get(r.getMovieID());
-                uData.add(r);
-                mData.add(r);
-                this.userRatingList.put(r.getUserID(), uData);
-                this.movieRatingList.put(r.getMovieID(), mData);
+                this.userList.get(temp.get(0)).addRating(r);
+                this.movieList.get(temp.get(1)).addRating(r);
             }
-        } catch (FileNotFoundException e) {
-            throw new IncorrectFileException("Ratings File not Found", e);
+        } catch (Exception e) {
+            throw new IncorrectFileException("\n[Cannot Open File ratings.dat]\n", e);
         }
     }
 
@@ -85,7 +71,6 @@ public class Solution {
             File f = new File("data\\movies.dat");
             Scanner s = new Scanner(f);
             while (s.hasNextLine()) {
-
                 List<String> temp = new ArrayList<>(Arrays.asList(s.nextLine().strip().split("\\|")));
                 temp.remove(3);
                 List<String> possibleGenres = new ArrayList<>(temp.subList(5, temp.size()));
@@ -115,40 +100,17 @@ public class Solution {
         }
     }
 
-    private void printUserRating(String userID) {
-        if (!this.userRatingList.containsKey(userID)) {
-            System.out.printf("Sorry %s is not a valid UserID%n", userID);
-        } else {
-            int total = this.userRatingList.get(userID).size();
-            float score = 0;
-            for (Rating r : this.userRatingList.get(userID)) {
-                score += r.getRating();
-            }
-            System.out.printf("UserID: %s | Average Rating: %.2f%n", userID, score / total);
-            try {
-                File file = new File("outputFiles\\oneUserRating.txt");
-                FileWriter fileWriter = new FileWriter(file);
-                fileWriter.write(String.format("UserID: %s | Average Rating: %.2f%n", userID, score / total));
-                fileWriter.close();
-            } catch (Exception e) {
-                throw new FileWriteException("Cannot Write to File oneUserRating.txt", e);
-            }
-        }
-    }
-
     private void printAllUserRatings() {
         try {
             File file = new File("outputFiles\\allUserRating.txt");
             FileWriter fileWriter = new FileWriter(file);
-            for (Map.Entry<String, List<Rating>> hash : userRatingList.entrySet()) {
-                List<Rating> data = hash.getValue();
-                int total = data.size();
+            for (Map.Entry<String, User> hash : userList.entrySet()) {
                 float score = 0;
-                for (Rating r : data) {
+                for (Rating r : hash.getValue().getMoviesRated()) {
                     score += r.getRating();
                 }
-                System.out.printf("UserID: %s | Average Rating: %.2f%n", hash.getKey(), score / total);
-                fileWriter.append(String.format("UserID: %s | Average Rating: %.2f%n", hash.getKey(), score / total));
+                System.out.printf("UserID: %s | Average Rating: %.2f%n", hash.getKey(), score / hash.getValue().getMoviesRated().size());
+                fileWriter.append(String.format("UserID: %s | Average Rating: %.2f%n", hash.getKey(), score / hash.getValue().getMoviesRated().size()));
             }
             fileWriter.close();
         } catch (Exception e) {
@@ -156,40 +118,17 @@ public class Solution {
         }
     }
 
-    private void printMoveRating(String movieID) {
-        if (!movieRatingList.containsKey(movieID)) {
-            System.out.printf("Sorry %s is not a valid MovieID%n", movieID);
-        } else {
-            int total = movieRatingList.get(movieID).size();
-            float score = 0;
-            for (Rating r : movieRatingList.get(movieID)) {
-                score += r.getRating();
-            }
-            System.out.printf("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", movieID, this.movieList.get(movieID).getTitle(), score / total);
-            try {
-                File file = new File("outputFiles\\oneMovieRating.txt");
-                FileWriter fileWriter = new FileWriter(file);
-                fileWriter.write(String.format("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", movieID, this.movieList.get(movieID).getTitle(), score / total));
-                fileWriter.close();
-            } catch (Exception e) {
-                throw new FileWriteException("Cannot Write to File oneMovieRating.txt", e);
-            }
-        }
-    }
-
     private void printAllMovieRatings() {
         try {
             File file = new File("outputFiles\\allMovieRating.txt");
             FileWriter fileWriter = new FileWriter(file);
-            for (Map.Entry<String, List<Rating>> hash : movieRatingList.entrySet()) {
-                List<Rating> data = hash.getValue();
-                int total = data.size();
+            for (Map.Entry<String, Movie> hash : movieList.entrySet()) {
                 float score = 0;
-                for (Rating r : data) {
+                for (Rating r : hash.getValue().getRatings()) {
                     score += r.getRating();
                 }
-                System.out.printf("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", hash.getKey(), this.movieList.get(hash.getKey()).getTitle(), score / total);
-                fileWriter.append(String.format("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", hash.getKey(), this.movieList.get(hash.getKey()).getTitle(), score / total));
+                System.out.printf("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", hash.getKey(), this.movieList.get(hash.getKey()).getTitle(), score / hash.getValue().getRatings().size());
+                fileWriter.append(String.format("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", hash.getKey(), this.movieList.get(hash.getKey()).getTitle(), score / hash.getValue().getRatings().size()));
             }
             fileWriter.close();
         } catch (Exception e) {
@@ -199,15 +138,15 @@ public class Solution {
 
     private void printTwoRatedMovies(String userIDOne, String userIDTwo) {
         try {
-            if (this.userRatingList.containsKey(userIDOne) && this.userRatingList.containsKey(userIDTwo)) {
+            if (this.userList.containsKey(userIDOne) && this.movieList.containsKey(userIDTwo)) {
                 boolean rated = false;
                 List<String> firstUserMovieList = new ArrayList<>();
                 File file = new File("outputFiles\\sharedMovies.txt");
                 FileWriter fileWriter = new FileWriter(file);
-                for (Rating r : this.userRatingList.get(userIDOne)) {
+                for (Rating r : this.userList.get(userIDOne).getMoviesRated()) {
                     firstUserMovieList.add(this.movieList.get(r.getMovieID()).getTitle());
                 }
-                for (Rating r : this.userRatingList.get(userIDTwo)) {
+                for (Rating r : this.userList.get(userIDTwo).getMoviesRated()) {
                     String title = this.movieList.get(r.getMovieID()).getTitle();
                     if (firstUserMovieList.contains(title)) {
                         System.out.printf("User [%s] and [%s] have both rated %s%n", userIDOne, userIDTwo, title);
@@ -228,6 +167,55 @@ public class Solution {
         }
     }
 
+    private void printUserRating(String userID) {
+        if (!this.userList.containsKey(userID)) {
+            System.out.printf("Sorry %s is not a valid UserID%n", userID);
+        } else {
+            float score = 0;
+            User user = this.userList.get(userID);
+            for (Rating r : user.getMoviesRated()) {
+                score += r.getRating();
+            }
+            System.out.printf("UserID: %s | Average Rating: %.2f%n", user.getUserID(), score / user.getMoviesRated().size());
+            try {
+                File file = new File("outputFiles\\oneUserRating.txt");
+                FileWriter fileWriter = new FileWriter(file);
+                fileWriter.write(String.format("UserID: %s | Average Rating: %.2f%n", userID, score / user.getMoviesRated().size()));
+                fileWriter.close();
+            } catch (Exception e) {
+                throw new FileWriteException("Cannot Write to File oneUserRating.txt", e);
+            }
+        }
+    }
+
+    private void printMovieRating(String movieID) {
+        if (!this.movieList.containsKey(movieID)) {
+            System.out.printf("Sorry %s is not a valid UserID%n", movieID);
+        } else {
+            float score  = 0;
+            Movie movie = this.movieList.get(movieID);
+            for (Rating r : movie.getRatings()) {
+                score += r.getRating();
+            }
+            System.out.printf("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", movieID, this.movieList.get(movieID).getTitle(), score / movie.getRatings().size());
+            try {
+                File file = new File("outputFiles\\oneMovieRating.txt");
+                FileWriter fileWriter = new FileWriter(file);
+                fileWriter.write(String.format("MovieID: %s | Movie Title: %s | Average Rating: %.2f%n", movieID, this.movieList.get(movieID).getTitle(), score / movie.getRatings().size()));
+                fileWriter.close();
+            } catch (Exception e) {
+                throw new FileWriteException("Cannot Write to File oneMovieRating.txt", e);
+            }
+        }
+    }
+
+    private String getUserInput(String type) {
+        Scanner s1 = new Scanner(System.in);
+        String query = type.equals("user") ? "Please enter a userID: " : "Please enter a movieID: ";
+        System.out.print(query);
+        return s1.nextLine();
+    }
+
     public void getUserOption() {
         boolean carryOn = true;
         boolean loadedInformation = false;
@@ -241,7 +229,7 @@ public class Solution {
                     if (!loadedInformation) {
                         this.populateUserList();
                         this.populateMoviesList();
-                        this.populateRatingsList();
+                        this.addRatings();
                         System.out.println("All the information has been loaded!");
                         loadedInformation = true;
                     } else {
@@ -252,10 +240,7 @@ public class Solution {
                     if (!loadedInformation) {
                         System.out.println("Please load the information first!");
                     } else {
-                        Scanner s1 = new Scanner(System.in);
-                        System.out.print("Please enter a userID: ");
-                        String userID = s1.nextLine();
-                        this.printUserRating(userID);
+                        this.printUserRating(getUserInput("user"));
                     }
 
                 }
@@ -263,10 +248,7 @@ public class Solution {
                     if (!loadedInformation) {
                         System.out.println("Please load the information first");
                     } else {
-                        Scanner s1 = new Scanner(System.in);
-                        System.out.print("Please enter a movieID: ");
-                        String movieID = s1.nextLine();
-                        this.printMoveRating(movieID);
+                        this.printMovieRating(getUserInput("movie"));
                     }
                 }
                 case "D" -> {
@@ -287,12 +269,7 @@ public class Solution {
                     if (!loadedInformation) {
                         System.out.println("Please load the information first!");
                     } else {
-                        Scanner s1 = new Scanner(System.in);
-                        System.out.print("Please enter a userID: ");
-                        String firstUserID = s1.nextLine();
-                        System.out.print("Please enter another userID: ");
-                        String secondUserID = s1.next();
-                        this.printTwoRatedMovies(firstUserID, secondUserID);
+                        this.printTwoRatedMovies(getUserInput("user"), getUserInput("user"));
                     }
                 }
                 case "X" -> {
